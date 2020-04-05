@@ -1,2 +1,2 @@
-# covid-19-data-aggregation
-The aggregation of dataset related to covid-19, being updated by scripts automatically
+# Geographic distribution of COVID-19 cases worldwide from ecdc
+To be supplymented
