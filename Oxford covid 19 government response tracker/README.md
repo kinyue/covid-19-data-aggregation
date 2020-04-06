@@ -1,5 +1,5 @@
 # Oxford covid 19 government response tracker
-This dataset is maintenaced by the team of Oxford COVID-19 Government Response Tracker. The dataset describe how the global government public policy against the pandemic.
+This dataset is maintenaced by the team of Oxford COVID-19 Government Response Tracker. The dataset describe how the global governments response to the pandemic.
 
 __Source__: https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker
 
