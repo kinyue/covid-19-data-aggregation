@@ -8,29 +8,7 @@ All dataset comes from two types of sources, one is the other github repository 
 For some dataset which are providing historical data like [csse_covid_19_daily_reports](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Cases%20Stat%20from%20JHU%20CSSE/csse_covid_19_daily_reports), no archiving activate. For the other dataset, archive will saved in a sub-folder like [csse_covid_19_time_series](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Cases%20Stat%20from%20JHU%20CSSE/csse_covid_19_time_series) and file will be named with its md5 value.
 
 ## Folder structure
-
-.
-├── source1 (datasource 1, it may include few datasets)
-│   ├── dataset_s1_1 (dataset 1 of datasource 1, no archive)
-│   │   ├── datafile_s1_d1_1 (data file 1 of dataset 1 of datasource 1, no archive)
-│   │   ├── datafile_s1_d1_2 (data file 2 of dataset 1 of datasource 1, no archive)
-│   │   └── ...
-│   ├── dataset_s1_2 (dataset 2 of datasource 1, with archive)
-│   │   ├── archived (archive folder for dataset 2 of datasource 1)
-│   │   │   ├── datafile_s1_d2_1_md5 (archived file with its md5 value)
-│   │   │   └── ...
-│   │   ├── datafile_s1_d2_1 (data file 1 of dataset 2 of datasource 1)
-│   │   ├── datafile_s1_d2_2 (data file 2 of dataset 2 of datasource 1)
-│   │   └── ...
-│   ├── img
-│   │   ├── figure1
-│   │   └── ...
-│   └── README.md (description of datasource 1)
-├── source2 (datasource 2, it may include few datasets)
-│   ├── ...
-│   └── README.md
-├── LICENSE
-└── README.md
+[Folder structure](Static/img/folder_structure.JPG)
 
 ## List of datasets
 |Source|Data Set|Source Type|Have Archive? |Data Type|
