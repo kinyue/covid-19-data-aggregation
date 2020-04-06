@@ -8,6 +8,7 @@ All dataset comes from two types of sources, one is the other github repository 
 For some dataset which are providing historical data like [csse_covid_19_daily_reports](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Cases%20Stat%20from%20JHU%20CSSE/csse_covid_19_daily_reports), no archiving activate. For the other dataset, archive will saved in a sub-folder like [csse_covid_19_time_series](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Cases%20Stat%20from%20JHU%20CSSE/csse_covid_19_time_series) and file will be named with its md5 value.
 
 ## Folder structure
+
 .
 ├── source1 (datasource 1, it may include few datasets)
 │   ├── dataset_s1_1 (dataset 1 of datasource 1, no archive)
