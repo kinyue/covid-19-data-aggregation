@@ -18,7 +18,7 @@ For some dataset which are providing historical data like [csse_covid_19_daily_r
 |[Cases Stat from JHU CSSE](https://github.com/CSSEGISandData/COVID-19)|[who_covid_19_sit_rep_time_series](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Cases%20Stat%20from%20JHU%20CSSE/who_covid_19_sit_rep_time_series)|Github Repository|Yes|Time series|
 |[ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)|[Geographic distribution of COVID-19 cases worldwide from ecdc](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Geographic%20distribution%20of%20COVID-19%20cases%20worldwide%20from%20ecdc)|Web Page|Yes|Time series|
 |[Oxford](https://www.bsg.ox.ac.uk/sites/default/files/OxCGRT_Download_latest_data.xlsx)|[Oxford covid 19 government response tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Oxford%20covid%2019%20government%20response%20tracker)|Web Page|Yes|Policy|
-|[Nextstrain](https://github.com/nextstrain/ncov)|[SARS-CoV-2 genomes from Nextstrain](https://github.com/kinyue/covid-19-data-aggregation/tree/master/SARS-CoV-2%20genomes%20from%20Nextstrain)|Github Repository|Yes|Gene Data|
+|[Nextstrain](https://github.com/nextstrain/ncov)|[SARS-CoV-2 genomes metadata from Nextstrain](https://github.com/kinyue/covid-19-data-aggregation/tree/master/SARS-CoV-2%20genomes%20from%20Nextstrain)|Github Repository|Yes|Genomes Metadata|
 |Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
 
 ## Other data collection
