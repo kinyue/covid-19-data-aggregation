@@ -29,5 +29,4 @@ There are also serveral pages collecting and maintenace the dataset related to c
 * [The COVID Tracking Project](https://covidtracking.com/api): Provide api to obtain dataset, most of them are US statistic data.
 * [UN Database](https://www.un.org/en/databases/): Databases from United Nations. Inlcude the world population [statistics](https://population.un.org/wpp/Download/Standard/Population/).
 * [OpenMD](https://openmd.com/directory/covid-19#covid-19-data-and-visualizations): A reousrce directory for COVID-19 related, including links to datasets/journal and agencies.
-> OpenMD.com is a search engine that makes high-quality medical information easily accessible to everyone.
 
