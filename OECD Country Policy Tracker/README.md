@@ -8,7 +8,7 @@ __Source__:
 __Files & Folders__: 
 
 * CoronavirusUpdate_AllCountries_Public.xlsx: A matrix displaying the Containment measures or Policies measures in countries. The content is descriptive.
-![CoronavirusUpdate_AllCountries_Public](img/CoronavirusUpdate_AllCountries_Public.jpg)
+![CoronavirusUpdate_AllCountries_Public](img/CoronavirusUpdate_AllCountries_Public.JPG)
 
 
 [__Terms__](http://www.oecd.org/termsandconditions/): 
