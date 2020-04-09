@@ -4,7 +4,7 @@ The datas in this page are relatively static and probably will not be updated au
 
 1. __2019 Global Health Security Index__: "The GHS Index is the first comprehensive assessment of global health security capabilities in 195 countries."
 	* Files: 
-		* [_2019 Global Health Security Index_](2019-Global-Health-Security-Index/2019-Global-Health-Security-Index.pdf), a PDF format the of the report
+		* [_2019 Global Health Security Index_](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static/2019-Global-Health-Security-Index/2019-Global-Health-Security-Index.pdf), a PDF format the of the report
 		* [_Global Health Security Index 2019 Final October 2019_](2019-Global-Health-Security-Index/Global-Health-Security-Index-2019-Final-October-2019.zip), data model
 	* Source: https://www.ghsindex.org/
 
