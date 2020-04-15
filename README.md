@@ -22,6 +22,7 @@ For some dataset which are providing historical data like [csse_covid_19_daily_r
 |[OECD](http://www.oecd.org/coronavirus/en/)|[OECD Country Policy Tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/OECD%20Country%20Policy%20Tracker)|Web Page|Yes|Metadata|
 |[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data|
 |[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 cumulative tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data||Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
+|Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
 
 ## Other data collection
 There are also serveral pages collecting and maintenace the dataset related to covid-19. Check out the list below.
