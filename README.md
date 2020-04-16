@@ -19,11 +19,11 @@ For some dataset which are providing historical data like [csse_covid_19_daily_r
 |[ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)|[Geographic distribution of COVID-19 cases worldwide from ecdc](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Geographic%20distribution%20of%20COVID-19%20cases%20worldwide%20from%20ecdc)|Web Page|Yes|Time series|
 |[Oxford](https://www.bsg.ox.ac.uk/sites/default/files/OxCGRT_Download_latest_data.xlsx)|[Oxford covid 19 government response tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Oxford%20covid%2019%20government%20response%20tracker)|Web Page|Yes|Policy|
 |[Nextstrain](https://github.com/nextstrain/ncov)|[SARS-CoV-2 genomes metadata from Nextstrain](https://github.com/kinyue/covid-19-data-aggregation/tree/master/SARS-CoV-2%20genomes%20from%20Nextstrain)|Github Repository|Yes|Genomes Metadata|
-|[OECD](http://www.oecd.org/coronavirus/en/)|[OECD Country Policy Tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/OECD%20Country%20Policy%20Tracker)|Web Page|Yes|Metadata|
+|[OECD](http://www.oecd.org/coronavirus/en/)|[OECD Country Policy Tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/OECD%20Country%20Policy%20Tracker)|Web Page|Yes|Policy|
 |[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data|
 |[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 cumulative tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data||Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
 |[ACAPS](https://www.acaps.org/covid19-government-measures-dataset)|[COVID19 Government Measures Dataset](ACAPS%20COVID19%20Government%20Measures%20Dataset)|Web Page|Yes|Policy|
-|Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
+|Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|No|Metadata|
 
 ## Other data collection
 There are also serveral pages collecting and maintenace the dataset related to covid-19. Check out the list below.
