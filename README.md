@@ -21,8 +21,9 @@ For some dataset which are providing historical data like [csse_covid_19_daily_r
 |[Nextstrain](https://github.com/nextstrain/ncov)|[SARS-CoV-2 genomes metadata from Nextstrain](https://github.com/kinyue/covid-19-data-aggregation/tree/master/SARS-CoV-2%20genomes%20from%20Nextstrain)|Github Repository|Yes|Genomes Metadata|
 |[OECD](http://www.oecd.org/coronavirus/en/)|[OECD Country Policy Tracker](https://github.com/kinyue/covid-19-data-aggregation/tree/master/OECD%20Country%20Policy%20Tracker)|Web Page|Yes|Policy|
 |[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data|
-|[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 cumulative tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data||Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|Yes|Metadata|
+|[ourworldindata](https://ourworldindata.org/covid-testing)|[Covid 19 cumulative tests per day](Ourworldindata%20COVID-19%20test%20data/full-list-covid-19-tests-per-day.csv)|Web Page|Yes|Test Data|
 |[ACAPS](https://www.acaps.org/covid19-government-measures-dataset)|[COVID19 Government Measures Dataset](ACAPS%20COVID19%20Government%20Measures%20Dataset)|Web Page|Yes|Policy|
+|[International SOS](https://www.internationalsos.com/about-us/our-approach)|[Travel restrictions, Flight operations and Screening](https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-and-screening)|Google Drive|No|Metadata|
 |Others|[Static data or metadata](https://github.com/kinyue/covid-19-data-aggregation/tree/master/Static)|Various|No|Metadata|
 
 ## Other data collection
