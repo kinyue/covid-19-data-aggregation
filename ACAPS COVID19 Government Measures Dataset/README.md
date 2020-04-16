@@ -1,4 +1,4 @@
-# SARS-CoV-2 genomes metadata from Nextstrain
+# ACAPS COVID19 Government Measures Dataset
 [ACAPS](https://en.wikipedia.org/wiki/ACAPS) is a non-profit, non-governmental project that provides international, independent humanitarian analysis. During this pandemic, they put governments response to the Coronavirus outbreak. The measures implemented by governments are fall into give categories:
 
 * Social distancing
