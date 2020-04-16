@@ -9,10 +9,8 @@ __Files & Folders__:
 
 * full-list-covid-19-tests-per-day.csv: Daily testing number per country
 ![full-list-covid-19-tests-per-day](img/full-list-covid-19-tests-per-day.jpg)
-* full-list-covid-19-tests-per-day.json: A json format of full-list-covid-19-tests-per-day, not friendly for human reading
 * full-list-total-tests-for-covid-19.csv: A daily cumulative total tests number per country
 ![full-list-total-tests-for-covid-19](img/full-list-total-tests-for-covid-19.jpg)
-* full-list-total-tests-for-covid-19.json: A json format of full-list-total-tests-for-covid-19, not friendly for human reading
 
 __Terms:__
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
