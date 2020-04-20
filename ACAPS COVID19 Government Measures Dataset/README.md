@@ -14,7 +14,7 @@ https://www.acaps.org/covid19-government-measures-dataset
 __Files & Folders__: 
 
 
-* __~covid-19_goverment_measures_dataset~.xlsx__: the excel file includes a table of description, a tab of database and also a tab of dictionary
+* __covid-19_goverment_measures_dataset.xlsx__: the excel file includes a table of description, a tab of database and also a tab of dictionary
 ![covid-19_goverment_measures_dataset.xlsx](img/covid-19_goverment_measures_dataset.jpg)
 
 
