@@ -356,7 +356,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Algeria,DZ,DZA,42228429,Africa
 01/01/2020,1,1,2020,0,0,Algeria,DZ,DZA,42228429,Africa
 31/12/2019,31,12,2019,0,0,Algeria,DZ,DZA,42228429,Africa
-25/05/2020,25,5,2020,1,0,Andorra,AD,AND,77006,Europe
+25/05/2020,25,5,2020,0,0,Andorra,AD,AND,77006,Europe
 24/05/2020,24,5,2020,0,0,Andorra,AD,AND,77006,Europe
 23/05/2020,23,5,2020,0,0,Andorra,AD,AND,77006,Europe
 22/05/2020,22,5,2020,0,0,Andorra,AD,AND,77006,Europe
@@ -4598,7 +4598,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 14/03/2020,14,3,2020,8,0,Cyprus,CY,CYP,1189265,Europe
 12/03/2020,12,3,2020,4,0,Cyprus,CY,CYP,1189265,Europe
 10/03/2020,10,3,2020,2,0,Cyprus,CY,CYP,1189265,Europe
-25/05/2020,25,5,2020,67,1,Czechia,CZ,CZE,10625695,Europe
+25/05/2020,25,5,2020,65,1,Czechia,CZ,CZE,10625695,Europe
 24/05/2020,24,5,2020,77,2,Czechia,CZ,CZE,10625695,Europe
 23/05/2020,23,5,2020,59,6,Czechia,CZ,CZE,10625695,Europe
 22/05/2020,22,5,2020,33,2,Czechia,CZ,CZE,10625695,Europe
@@ -9046,7 +9046,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Isle_of_Man,IM,IMN,84077,Europe
 22/03/2020,22,3,2020,1,0,Isle_of_Man,IM,IMN,84077,Europe
 21/03/2020,21,3,2020,1,0,Isle_of_Man,IM,IMN,84077,Europe
-25/05/2020,25,5,2020,30,1,Israel,IL,ISR,8883800,Asia
+25/05/2020,25,5,2020,22,0,Israel,IL,ISR,8883800,Asia
 24/05/2020,24,5,2020,0,0,Israel,IL,ISR,8883800,Asia
 23/05/2020,23,5,2020,0,0,Israel,IL,ISR,8883800,Asia
 22/05/2020,22,5,2020,20,0,Israel,IL,ISR,8883800,Asia
