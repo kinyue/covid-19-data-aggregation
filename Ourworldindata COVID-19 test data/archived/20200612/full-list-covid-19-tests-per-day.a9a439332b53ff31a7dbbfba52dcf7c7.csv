@@ -50,7 +50,6 @@ Argentina,ARG,"Jun 7, 2020",4645
 Argentina,ARG,"Jun 8, 2020",4597
 Argentina,ARG,"Jun 9, 2020",4531
 Argentina,ARG,"Jun 10, 2020",5468
-Argentina,ARG,"Jun 11, 2020",6288
 Australia,AUS,"Apr 6, 2020",5509
 Australia,AUS,"Apr 7, 2020",8037
 Australia,AUS,"Apr 8, 2020",8668
@@ -292,7 +291,6 @@ Bahrain,BHR,"Jun 8, 2020",7306
 Bahrain,BHR,"Jun 9, 2020",3873
 Bahrain,BHR,"Jun 10, 2020",7899
 Bahrain,BHR,"Jun 11, 2020",7776
-Bahrain,BHR,"Jun 12, 2020",9126
 Bangladesh,BGD,"Mar 5, 2020",3
 Bangladesh,BGD,"Mar 8, 2020",7
 Bangladesh,BGD,"Mar 9, 2020",10
@@ -651,7 +649,6 @@ Bulgaria,BGR,"Jun 8, 2020",427
 Bulgaria,BGR,"Jun 9, 2020",1406
 Bulgaria,BGR,"Jun 10, 2020",1777
 Bulgaria,BGR,"Jun 11, 2020",2308
-Bulgaria,BGR,"Jun 12, 2020",2640
 Canada,CAN,"Mar 19, 2020",981
 Canada,CAN,"Mar 20, 2020",21858
 Canada,CAN,"Mar 21, 2020",12069
@@ -733,7 +730,6 @@ Canada,CAN,"Jun 8, 2020",28545
 Canada,CAN,"Jun 9, 2020",33319
 Canada,CAN,"Jun 10, 2020",25578
 Canada,CAN,"Jun 11, 2020",33536
-Canada,CAN,"Jun 12, 2020",39241
 Chile,CHL,"Apr 2, 2020",2685
 Chile,CHL,"Apr 3, 2020",3405
 Chile,CHL,"Apr 4, 2020",4483
@@ -902,7 +898,6 @@ Colombia,COL,"Jun 7, 2020",11214
 Colombia,COL,"Jun 8, 2020",11004
 Colombia,COL,"Jun 9, 2020",11147
 Colombia,COL,"Jun 10, 2020",12063
-Colombia,COL,"Jun 11, 2020",13391
 Costa Rica,CRI,"Mar 11, 2020",68
 Costa Rica,CRI,"Mar 12, 2020",89
 Costa Rica,CRI,"Mar 13, 2020",86
@@ -995,7 +990,6 @@ Costa Rica,CRI,"Jun 7, 2020",268
 Costa Rica,CRI,"Jun 8, 2020",161
 Costa Rica,CRI,"Jun 9, 2020",229
 Costa Rica,CRI,"Jun 10, 2020",427
-Costa Rica,CRI,"Jun 11, 2020",381
 Croatia,HRV,"Mar 4, 2020",8
 Croatia,HRV,"Mar 5, 2020",18
 Croatia,HRV,"Mar 6, 2020",29
@@ -1283,11 +1277,10 @@ Czech Republic,CZE,"Jun 3, 2020",5313
 Czech Republic,CZE,"Jun 4, 2020",5011
 Czech Republic,CZE,"Jun 5, 2020",4173
 Czech Republic,CZE,"Jun 6, 2020",2176
-Czech Republic,CZE,"Jun 7, 2020",2112
-Czech Republic,CZE,"Jun 8, 2020",4671
-Czech Republic,CZE,"Jun 9, 2020",4390
-Czech Republic,CZE,"Jun 10, 2020",3967
-Czech Republic,CZE,"Jun 11, 2020",3546
+Czech Republic,CZE,"Jun 7, 2020",2047
+Czech Republic,CZE,"Jun 8, 2020",4714
+Czech Republic,CZE,"Jun 9, 2020",4368
+Czech Republic,CZE,"Jun 10, 2020",3698
 Denmark,DNK,"Jan 27, 2020",1
 Denmark,DNK,"Feb 2, 2020",1
 Denmark,DNK,"Feb 3, 2020",1
@@ -1572,12 +1565,11 @@ Estonia,EST,"Jun 2, 2020",1258
 Estonia,EST,"Jun 3, 2020",1022
 Estonia,EST,"Jun 4, 2020",1116
 Estonia,EST,"Jun 5, 2020",853
-Estonia,EST,"Jun 6, 2020",648
+Estonia,EST,"Jun 6, 2020",650
 Estonia,EST,"Jun 7, 2020",548
-Estonia,EST,"Jun 8, 2020",1115
-Estonia,EST,"Jun 9, 2020",1152
-Estonia,EST,"Jun 10, 2020",953
-Estonia,EST,"Jun 11, 2020",884
+Estonia,EST,"Jun 8, 2020",1116
+Estonia,EST,"Jun 9, 2020",1153
+Estonia,EST,"Jun 10, 2020",955
 Ethiopia,ETH,"Apr 1, 2020",70
 Ethiopia,ETH,"Apr 6, 2020",164
 Ethiopia,ETH,"Apr 7, 2020",264
@@ -2570,14 +2562,13 @@ Italy,ITA,"Jun 11, 2020",62472
 "Japan, tests performed",,"May 30, 2020",5331
 "Japan, tests performed",,"May 31, 2020",2532
 "Japan, tests performed",,"Jun 1, 2020",5453
-"Japan, tests performed",,"Jun 2, 2020",6944
-"Japan, tests performed",,"Jun 3, 2020",7232
+"Japan, tests performed",,"Jun 2, 2020",6925
+"Japan, tests performed",,"Jun 3, 2020",7176
 "Japan, tests performed",,"Jun 4, 2020",6953
 "Japan, tests performed",,"Jun 5, 2020",7833
 "Japan, tests performed",,"Jun 6, 2020",6587
 "Japan, tests performed",,"Jun 7, 2020",2524
-"Japan, tests performed",,"Jun 8, 2020",4276
-"Japan, tests performed",,"Jun 9, 2020",6960
+"Japan, tests performed",,"Jun 8, 2020",4235
 Kazakhstan,KAZ,"Mar 14, 2020",319
 Kazakhstan,KAZ,"Mar 15, 2020",207
 Kazakhstan,KAZ,"Mar 16, 2020",386
@@ -2834,7 +2825,6 @@ Latvia,LVA,"Jun 8, 2020",662
 Latvia,LVA,"Jun 9, 2020",1730
 Latvia,LVA,"Jun 10, 2020",1731
 Latvia,LVA,"Jun 11, 2020",1581
-Latvia,LVA,"Jun 12, 2020",1298
 Lithuania,LTU,"Mar 17, 2020",118
 Lithuania,LTU,"Mar 18, 2020",193
 Lithuania,LTU,"Mar 28, 2020",1405
@@ -2896,7 +2886,6 @@ Lithuania,LTU,"Jun 5, 2020",5254
 Lithuania,LTU,"Jun 9, 2020",4387
 Lithuania,LTU,"Jun 10, 2020",5319
 Lithuania,LTU,"Jun 11, 2020",5396
-Lithuania,LTU,"Jun 12, 2020",5274
 Luxembourg,LUX,"Apr 4, 2020",1330
 Luxembourg,LUX,"Apr 10, 2020",752
 Luxembourg,LUX,"Apr 11, 2020",692
@@ -3028,7 +3017,6 @@ Malaysia,MYS,"Jun 5, 2020",8127
 Malaysia,MYS,"Jun 6, 2020",8841
 Malaysia,MYS,"Jun 9, 2020",6081
 Malaysia,MYS,"Jun 10, 2020",5455
-Malaysia,MYS,"Jun 11, 2020",5833
 Maldives,MDV,"Mar 17, 2020",33
 Maldives,MDV,"Mar 18, 2020",209
 Maldives,MDV,"Mar 19, 2020",56
@@ -3165,94 +3153,93 @@ Mexico,MEX,"Mar 11, 2020",135
 Mexico,MEX,"Mar 12, 2020",204
 Mexico,MEX,"Mar 13, 2020",284
 Mexico,MEX,"Mar 14, 2020",162
-Mexico,MEX,"Mar 15, 2020",172
+Mexico,MEX,"Mar 15, 2020",171
 Mexico,MEX,"Mar 16, 2020",265
 Mexico,MEX,"Mar 17, 2020",455
-Mexico,MEX,"Mar 18, 2020",504
+Mexico,MEX,"Mar 18, 2020",503
 Mexico,MEX,"Mar 19, 2020",591
 Mexico,MEX,"Mar 20, 2020",572
 Mexico,MEX,"Mar 21, 2020",397
 Mexico,MEX,"Mar 22, 2020",313
-Mexico,MEX,"Mar 23, 2020",831
+Mexico,MEX,"Mar 23, 2020",829
 Mexico,MEX,"Mar 24, 2020",1133
 Mexico,MEX,"Mar 25, 2020",1238
 Mexico,MEX,"Mar 26, 2020",1224
 Mexico,MEX,"Mar 27, 2020",1463
 Mexico,MEX,"Mar 28, 2020",768
-Mexico,MEX,"Mar 29, 2020",742
-Mexico,MEX,"Mar 30, 2020",1668
-Mexico,MEX,"Mar 31, 2020",1492
-Mexico,MEX,"Apr 1, 2020",1574
-Mexico,MEX,"Apr 2, 2020",1690
+Mexico,MEX,"Mar 29, 2020",740
+Mexico,MEX,"Mar 30, 2020",1669
+Mexico,MEX,"Mar 31, 2020",1491
+Mexico,MEX,"Apr 1, 2020",1575
+Mexico,MEX,"Apr 2, 2020",1688
 Mexico,MEX,"Apr 3, 2020",1726
-Mexico,MEX,"Apr 4, 2020",1065
+Mexico,MEX,"Apr 4, 2020",1064
 Mexico,MEX,"Apr 5, 2020",808
-Mexico,MEX,"Apr 6, 2020",1986
-Mexico,MEX,"Apr 7, 2020",1979
-Mexico,MEX,"Apr 8, 2020",2166
-Mexico,MEX,"Apr 9, 2020",1631
+Mexico,MEX,"Apr 6, 2020",1985
+Mexico,MEX,"Apr 7, 2020",1981
+Mexico,MEX,"Apr 8, 2020",2169
+Mexico,MEX,"Apr 9, 2020",1633
 Mexico,MEX,"Apr 10, 2020",1918
-Mexico,MEX,"Apr 11, 2020",1370
+Mexico,MEX,"Apr 11, 2020",1371
 Mexico,MEX,"Apr 12, 2020",1191
-Mexico,MEX,"Apr 13, 2020",2788
+Mexico,MEX,"Apr 13, 2020",2791
 Mexico,MEX,"Apr 14, 2020",2866
 Mexico,MEX,"Apr 15, 2020",2756
-Mexico,MEX,"Apr 16, 2020",2651
-Mexico,MEX,"Apr 17, 2020",2986
+Mexico,MEX,"Apr 16, 2020",2653
+Mexico,MEX,"Apr 17, 2020",2987
 Mexico,MEX,"Apr 18, 2020",1601
 Mexico,MEX,"Apr 19, 2020",1463
-Mexico,MEX,"Apr 20, 2020",3529
-Mexico,MEX,"Apr 21, 2020",3264
+Mexico,MEX,"Apr 20, 2020",3531
+Mexico,MEX,"Apr 21, 2020",3263
 Mexico,MEX,"Apr 22, 2020",3151
-Mexico,MEX,"Apr 23, 2020",3438
-Mexico,MEX,"Apr 24, 2020",3866
-Mexico,MEX,"Apr 25, 2020",2140
+Mexico,MEX,"Apr 23, 2020",3437
+Mexico,MEX,"Apr 24, 2020",3867
+Mexico,MEX,"Apr 25, 2020",2139
 Mexico,MEX,"Apr 26, 2020",1869
-Mexico,MEX,"Apr 27, 2020",4177
-Mexico,MEX,"Apr 28, 2020",4296
-Mexico,MEX,"Apr 29, 2020",4624
-Mexico,MEX,"Apr 30, 2020",4994
-Mexico,MEX,"May 1, 2020",2985
-Mexico,MEX,"May 2, 2020",2743
+Mexico,MEX,"Apr 27, 2020",4175
+Mexico,MEX,"Apr 28, 2020",4298
+Mexico,MEX,"Apr 29, 2020",4627
+Mexico,MEX,"Apr 30, 2020",4995
+Mexico,MEX,"May 1, 2020",2983
+Mexico,MEX,"May 2, 2020",2745
 Mexico,MEX,"May 3, 2020",2659
-Mexico,MEX,"May 4, 2020",5756
-Mexico,MEX,"May 5, 2020",4842
-Mexico,MEX,"May 6, 2020",5491
-Mexico,MEX,"May 7, 2020",5603
-Mexico,MEX,"May 8, 2020",5959
-Mexico,MEX,"May 9, 2020",3317
-Mexico,MEX,"May 10, 2020",2581
-Mexico,MEX,"May 11, 2020",6562
-Mexico,MEX,"May 12, 2020",6714
-Mexico,MEX,"May 13, 2020",6645
-Mexico,MEX,"May 14, 2020",6872
-Mexico,MEX,"May 15, 2020",7300
-Mexico,MEX,"May 16, 2020",3925
+Mexico,MEX,"May 4, 2020",5761
+Mexico,MEX,"May 5, 2020",4843
+Mexico,MEX,"May 6, 2020",5488
+Mexico,MEX,"May 7, 2020",5596
+Mexico,MEX,"May 8, 2020",5958
+Mexico,MEX,"May 9, 2020",3318
+Mexico,MEX,"May 10, 2020",2578
+Mexico,MEX,"May 11, 2020",6556
+Mexico,MEX,"May 12, 2020",6707
+Mexico,MEX,"May 13, 2020",6635
+Mexico,MEX,"May 14, 2020",6850
+Mexico,MEX,"May 15, 2020",7261
+Mexico,MEX,"May 16, 2020",3912
 Mexico,MEX,"May 17, 2020",2709
-Mexico,MEX,"May 18, 2020",7933
-Mexico,MEX,"May 19, 2020",7141
-Mexico,MEX,"May 20, 2020",7713
-Mexico,MEX,"May 21, 2020",7537
-Mexico,MEX,"May 22, 2020",7935
-Mexico,MEX,"May 23, 2020",3954
-Mexico,MEX,"May 24, 2020",3260
-Mexico,MEX,"May 25, 2020",8762
-Mexico,MEX,"May 26, 2020",8378
-Mexico,MEX,"May 27, 2020",8776
-Mexico,MEX,"May 28, 2020",8220
-Mexico,MEX,"May 29, 2020",8364
-Mexico,MEX,"May 30, 2020",4562
-Mexico,MEX,"May 31, 2020",3406
-Mexico,MEX,"Jun 1, 2020",9082
-Mexico,MEX,"Jun 2, 2020",8253
-Mexico,MEX,"Jun 3, 2020",8443
-Mexico,MEX,"Jun 4, 2020",7707
-Mexico,MEX,"Jun 5, 2020",7462
-Mexico,MEX,"Jun 6, 2020",3315
-Mexico,MEX,"Jun 7, 2020",2178
-Mexico,MEX,"Jun 8, 2020",5058
-Mexico,MEX,"Jun 9, 2020",2319
-Mexico,MEX,"Jun 10, 2020",310
+Mexico,MEX,"May 18, 2020",7915
+Mexico,MEX,"May 19, 2020",7115
+Mexico,MEX,"May 20, 2020",7687
+Mexico,MEX,"May 21, 2020",7524
+Mexico,MEX,"May 22, 2020",7914
+Mexico,MEX,"May 23, 2020",3931
+Mexico,MEX,"May 24, 2020",3252
+Mexico,MEX,"May 25, 2020",8715
+Mexico,MEX,"May 26, 2020",8327
+Mexico,MEX,"May 27, 2020",8730
+Mexico,MEX,"May 28, 2020",8162
+Mexico,MEX,"May 29, 2020",8176
+Mexico,MEX,"May 30, 2020",4483
+Mexico,MEX,"May 31, 2020",3316
+Mexico,MEX,"Jun 1, 2020",8847
+Mexico,MEX,"Jun 2, 2020",8010
+Mexico,MEX,"Jun 3, 2020",7967
+Mexico,MEX,"Jun 4, 2020",6905
+Mexico,MEX,"Jun 5, 2020",6269
+Mexico,MEX,"Jun 6, 2020",2601
+Mexico,MEX,"Jun 7, 2020",1474
+Mexico,MEX,"Jun 8, 2020",2803
+Mexico,MEX,"Jun 9, 2020",351
 Morocco,MAR,"Feb 23, 2020",1
 Morocco,MAR,"Feb 24, 2020",1
 Morocco,MAR,"Feb 25, 2020",1
@@ -3587,7 +3574,6 @@ New Zealand,NZL,"Jun 7, 2020",800
 New Zealand,NZL,"Jun 8, 2020",1053
 New Zealand,NZL,"Jun 9, 2020",2631
 New Zealand,NZL,"Jun 10, 2020",3350
-New Zealand,NZL,"Jun 11, 2020",2950
 Nigeria,NGA,"Apr 17, 2020",504
 Nigeria,NGA,"Apr 29, 2020",824
 Nigeria,NGA,"May 4, 2020",1948
@@ -3768,7 +3754,6 @@ Pakistan,PAK,"Jun 8, 2020",22225
 Pakistan,PAK,"Jun 9, 2020",24620
 Pakistan,PAK,"Jun 10, 2020",23799
 Pakistan,PAK,"Jun 11, 2020",26573
-Pakistan,PAK,"Jun 12, 2020",28344
 Panama,PAN,"Mar 10, 2020",31
 Panama,PAN,"Mar 11, 2020",42
 Panama,PAN,"Mar 12, 2020",194
@@ -4025,7 +4010,6 @@ Peru,PER,"Jun 2, 2020",1458
 Peru,PER,"Jun 3, 2020",6603
 Peru,PER,"Jun 6, 2020",5396
 Peru,PER,"Jun 7, 2020",4369
-Peru,PER,"Jun 12, 2020",3612
 Philippines,PHL,"Apr 14, 2020",1840
 Philippines,PHL,"Apr 15, 2020",2275
 Philippines,PHL,"Apr 18, 2020",3221
@@ -4049,8 +4033,6 @@ Philippines,PHL,"Jun 4, 2020",18990
 Philippines,PHL,"Jun 5, 2020",10385
 Philippines,PHL,"Jun 6, 2020",9146
 Philippines,PHL,"Jun 7, 2020",10472
-Philippines,PHL,"Jun 8, 2020",9857
-Philippines,PHL,"Jun 9, 2020",10920
 Poland,POL,"Mar 4, 2020",25
 Poland,POL,"Mar 5, 2020",92
 Poland,POL,"Mar 6, 2020",179
@@ -4317,7 +4299,6 @@ Qatar,QAT,"Jun 5, 2020",5276
 Qatar,QAT,"Jun 6, 2020",5029
 Qatar,QAT,"Jun 9, 2020",5389
 Qatar,QAT,"Jun 10, 2020",4929
-Qatar,QAT,"Jun 11, 2020",4829
 Romania,ROU,"Mar 13, 2020",624
 Romania,ROU,"Mar 14, 2020",384
 Romania,ROU,"Mar 15, 2020",276
@@ -4499,7 +4480,6 @@ Russia,RUS,"Jun 8, 2020",294474
 Russia,RUS,"Jun 9, 2020",238655
 Russia,RUS,"Jun 10, 2020",290625
 Russia,RUS,"Jun 11, 2020",329794
-Russia,RUS,"Jun 12, 2020",343577
 Rwanda,RWA,"Apr 7, 2020",806
 Rwanda,RWA,"Apr 8, 2020",772
 Rwanda,RWA,"Apr 9, 2020",720
@@ -4596,7 +4576,6 @@ Saudi Arabia,SAU,"Jun 5, 2020",21763
 Saudi Arabia,SAU,"Jun 6, 2020",24229
 Saudi Arabia,SAU,"Jun 9, 2020",20858
 Saudi Arabia,SAU,"Jun 10, 2020",22139
-Saudi Arabia,SAU,"Jun 11, 2020",22500
 Senegal,SEN,"Mar 2, 2020",1
 Senegal,SEN,"Mar 3, 2020",2
 Senegal,SEN,"Mar 4, 2020",11
@@ -4697,7 +4676,6 @@ Senegal,SEN,"Jun 7, 2020",1266
 Senegal,SEN,"Jun 8, 2020",1010
 Senegal,SEN,"Jun 9, 2020",1402
 Senegal,SEN,"Jun 10, 2020",1205
-Senegal,SEN,"Jun 11, 2020",1164
 Serbia,SRB,"Feb 27, 2020",9
 Serbia,SRB,"Feb 28, 2020",5
 Serbia,SRB,"Feb 29, 2020",3
@@ -4801,7 +4779,6 @@ Serbia,SRB,"Jun 7, 2020",3317
 Serbia,SRB,"Jun 8, 2020",4308
 Serbia,SRB,"Jun 9, 2020",5239
 Serbia,SRB,"Jun 10, 2020",5015
-Serbia,SRB,"Jun 11, 2020",4932
 Slovakia,SVK,"Mar 16, 2020",368
 Slovakia,SVK,"Mar 19, 2020",448
 Slovakia,SVK,"Mar 20, 2020",268
@@ -4870,7 +4847,6 @@ Slovakia,SVK,"Jun 8, 2020",160
 Slovakia,SVK,"Jun 9, 2020",851
 Slovakia,SVK,"Jun 10, 2020",1545
 Slovakia,SVK,"Jun 11, 2020",1500
-Slovakia,SVK,"Jun 12, 2020",1262
 Slovenia,SVN,"Mar 13, 2020",1197
 Slovenia,SVN,"Mar 14, 2020",916
 Slovenia,SVN,"Mar 15, 2020",590
@@ -5709,7 +5685,6 @@ Uganda,UGA,"Jun 6, 2020",2494
 Uganda,UGA,"Jun 7, 2020",3758
 Uganda,UGA,"Jun 8, 2020",2336
 Uganda,UGA,"Jun 9, 2020",2423
-Uganda,UGA,"Jun 10, 2020",2321
 Ukraine,UKR,"Apr 10, 2020",2914
 Ukraine,UKR,"Apr 17, 2020",4273
 Ukraine,UKR,"Apr 27, 2020",4146
@@ -5754,7 +5729,6 @@ Ukraine,UKR,"Jun 8, 2020",7039
 Ukraine,UKR,"Jun 9, 2020",6359
 Ukraine,UKR,"Jun 10, 2020",8496
 Ukraine,UKR,"Jun 11, 2020",10569
-Ukraine,UKR,"Jun 12, 2020",11663
 United Kingdom,GBR,"Apr 26, 2020",31343
 United Kingdom,GBR,"Apr 27, 2020",27340
 United Kingdom,GBR,"Apr 28, 2020",43711
@@ -5928,104 +5902,101 @@ United States,USA,"Jun 3, 2020",473868
 United States,USA,"Jun 4, 2020",428963
 United States,USA,"Jun 5, 2020",573607
 United States,USA,"Jun 9, 2020",879364
-United States,USA,"Jun 10, 2020",357258
-United States,USA,"Jun 11, 2020",367990
-"United States, units unclear",,"Mar 8, 2020",924
-"United States, units unclear",,"Mar 9, 2020",1886
-"United States, units unclear",,"Mar 10, 2020",2575
-"United States, units unclear",,"Mar 11, 2020",4006
-"United States, units unclear",,"Mar 12, 2020",5527
-"United States, units unclear",,"Mar 13, 2020",9456
-"United States, units unclear",,"Mar 14, 2020",4920
-"United States, units unclear",,"Mar 15, 2020",8069
-"United States, units unclear",,"Mar 16, 2020",18707
-"United States, units unclear",,"Mar 17, 2020",14236
-"United States, units unclear",,"Mar 18, 2020",25081
-"United States, units unclear",,"Mar 19, 2020",27931
-"United States, units unclear",,"Mar 20, 2020",36617
-"United States, units unclear",,"Mar 21, 2020",45267
-"United States, units unclear",,"Mar 22, 2020",45275
-"United States, units unclear",,"Mar 23, 2020",58214
-"United States, units unclear",,"Mar 24, 2020",68932
-"United States, units unclear",,"Mar 25, 2020",84210
-"United States, units unclear",,"Mar 26, 2020",101614
-"United States, units unclear",,"Mar 27, 2020",103452
-"United States, units unclear",,"Mar 28, 2020",105111
-"United States, units unclear",,"Mar 29, 2020",87850
-"United States, units unclear",,"Mar 30, 2020",118736
-"United States, units unclear",,"Mar 31, 2020",111763
-"United States, units unclear",,"Apr 1, 2020",108565
-"United States, units unclear",,"Apr 2, 2020",118213
-"United States, units unclear",,"Apr 3, 2020",133016
-"United States, units unclear",,"Apr 4, 2020",228785
-"United States, units unclear",,"Apr 5, 2020",119079
-"United States, units unclear",,"Apr 6, 2020",151657
-"United States, units unclear",,"Apr 7, 2020",153855
-"United States, units unclear",,"Apr 8, 2020",147474
-"United States, units unclear",,"Apr 9, 2020",169383
-"United States, units unclear",,"Apr 10, 2020",157308
-"United States, units unclear",,"Apr 11, 2020",138764
-"United States, units unclear",,"Apr 12, 2020",140136
-"United States, units unclear",,"Apr 13, 2020",133626
-"United States, units unclear",,"Apr 14, 2020",151750
-"United States, units unclear",,"Apr 15, 2020",137357
-"United States, units unclear",,"Apr 16, 2020",163430
-"United States, units unclear",,"Apr 17, 2020",159466
-"United States, units unclear",,"Apr 18, 2020",145945
-"United States, units unclear",,"Apr 19, 2020",153903
-"United States, units unclear",,"Apr 20, 2020",146786
-"United States, units unclear",,"Apr 21, 2020",152958
-"United States, units unclear",,"Apr 22, 2020",324009
-"United States, units unclear",,"Apr 23, 2020",194059
-"United States, units unclear",,"Apr 24, 2020",236229
-"United States, units unclear",,"Apr 25, 2020",278304
-"United States, units unclear",,"Apr 26, 2020",206418
-"United States, units unclear",,"Apr 27, 2020",198298
-"United States, units unclear",,"Apr 28, 2020",207084
-"United States, units unclear",,"Apr 29, 2020",236735
-"United States, units unclear",,"Apr 30, 2020",234628
-"United States, units unclear",,"May 1, 2020",297636
-"United States, units unclear",,"May 2, 2020",249745
-"United States, units unclear",,"May 3, 2020",237198
-"United States, units unclear",,"May 4, 2020",232483
-"United States, units unclear",,"May 5, 2020",271856
-"United States, units unclear",,"May 6, 2020",248127
-"United States, units unclear",,"May 7, 2020",302837
-"United States, units unclear",,"May 8, 2020",298946
-"United States, units unclear",,"May 9, 2020",291909
-"United States, units unclear",,"May 10, 2020",267531
-"United States, units unclear",,"May 11, 2020",383393
-"United States, units unclear",,"May 12, 2020",311172
-"United States, units unclear",,"May 13, 2020",315376
-"United States, units unclear",,"May 14, 2020",366634
-"United States, units unclear",,"May 15, 2020",357592
-"United States, units unclear",,"May 16, 2020",364429
-"United States, units unclear",,"May 17, 2020",374816
-"United States, units unclear",,"May 18, 2020",348516
-"United States, units unclear",,"May 19, 2020",409544
-"United States, units unclear",,"May 20, 2020",408844
-"United States, units unclear",,"May 21, 2020",421075
-"United States, units unclear",,"May 22, 2020",402794
-"United States, units unclear",,"May 23, 2020",398386
-"United States, units unclear",,"May 24, 2020",384633
-"United States, units unclear",,"May 25, 2020",421110
-"United States, units unclear",,"May 26, 2020",306549
-"United States, units unclear",,"May 27, 2020",304717
-"United States, units unclear",,"May 28, 2020",418530
-"United States, units unclear",,"May 29, 2020",490646
-"United States, units unclear",,"May 30, 2020",428008
-"United States, units unclear",,"May 31, 2020",399446
-"United States, units unclear",,"Jun 1, 2020",405245
-"United States, units unclear",,"Jun 2, 2020",426517
-"United States, units unclear",,"Jun 3, 2020",458890
-"United States, units unclear",,"Jun 4, 2020",459468
-"United States, units unclear",,"Jun 5, 2020",539874
-"United States, units unclear",,"Jun 6, 2020",478436
-"United States, units unclear",,"Jun 7, 2020",446651
-"United States, units unclear",,"Jun 8, 2020",402117
-"United States, units unclear",,"Jun 9, 2020",413766
-"United States, units unclear",,"Jun 10, 2020",419468
-"United States, units unclear",,"Jun 11, 2020",446765
+"United States, units unclear",,"Mar 8, 2020",857
+"United States, units unclear",,"Mar 9, 2020",1755
+"United States, units unclear",,"Mar 10, 2020",2488
+"United States, units unclear",,"Mar 11, 2020",3813
+"United States, units unclear",,"Mar 12, 2020",5246
+"United States, units unclear",,"Mar 13, 2020",9157
+"United States, units unclear",,"Mar 14, 2020",4570
+"United States, units unclear",,"Mar 15, 2020",7599
+"United States, units unclear",,"Mar 16, 2020",17836
+"United States, units unclear",,"Mar 17, 2020",15674
+"United States, units unclear",,"Mar 18, 2020",24719
+"United States, units unclear",,"Mar 19, 2020",27662
+"United States, units unclear",,"Mar 20, 2020",36280
+"United States, units unclear",,"Mar 21, 2020",44884
+"United States, units unclear",,"Mar 22, 2020",44342
+"United States, units unclear",,"Mar 23, 2020",57594
+"United States, units unclear",,"Mar 24, 2020",68448
+"United States, units unclear",,"Mar 25, 2020",83537
+"United States, units unclear",,"Mar 26, 2020",101061
+"United States, units unclear",,"Mar 27, 2020",102944
+"United States, units unclear",,"Mar 28, 2020",104455
+"United States, units unclear",,"Mar 29, 2020",87632
+"United States, units unclear",,"Mar 30, 2020",117709
+"United States, units unclear",,"Mar 31, 2020",111171
+"United States, units unclear",,"Apr 1, 2020",107627
+"United States, units unclear",,"Apr 2, 2020",117951
+"United States, units unclear",,"Apr 3, 2020",132633
+"United States, units unclear",,"Apr 4, 2020",228516
+"United States, units unclear",,"Apr 5, 2020",119351
+"United States, units unclear",,"Apr 6, 2020",151294
+"United States, units unclear",,"Apr 7, 2020",152997
+"United States, units unclear",,"Apr 8, 2020",144308
+"United States, units unclear",,"Apr 9, 2020",166012
+"United States, units unclear",,"Apr 10, 2020",158055
+"United States, units unclear",,"Apr 11, 2020",139282
+"United States, units unclear",,"Apr 12, 2020",140559
+"United States, units unclear",,"Apr 13, 2020",133289
+"United States, units unclear",,"Apr 14, 2020",150809
+"United States, units unclear",,"Apr 15, 2020",136755
+"United States, units unclear",,"Apr 16, 2020",162651
+"United States, units unclear",,"Apr 17, 2020",158280
+"United States, units unclear",,"Apr 18, 2020",142158
+"United States, units unclear",,"Apr 19, 2020",160665
+"United States, units unclear",,"Apr 20, 2020",146351
+"United States, units unclear",,"Apr 21, 2020",149017
+"United States, units unclear",,"Apr 22, 2020",316906
+"United States, units unclear",,"Apr 23, 2020",194814
+"United States, units unclear",,"Apr 24, 2020",235119
+"United States, units unclear",,"Apr 25, 2020",279618
+"United States, units unclear",,"Apr 26, 2020",207378
+"United States, units unclear",,"Apr 27, 2020",197591
+"United States, units unclear",,"Apr 28, 2020",205362
+"United States, units unclear",,"Apr 29, 2020",233869
+"United States, units unclear",,"Apr 30, 2020",230955
+"United States, units unclear",,"May 1, 2020",297276
+"United States, units unclear",,"May 2, 2020",250611
+"United States, units unclear",,"May 3, 2020",241016
+"United States, units unclear",,"May 4, 2020",234250
+"United States, units unclear",,"May 5, 2020",261195
+"United States, units unclear",,"May 6, 2020",246416
+"United States, units unclear",,"May 7, 2020",304447
+"United States, units unclear",,"May 8, 2020",299561
+"United States, units unclear",,"May 9, 2020",293636
+"United States, units unclear",,"May 10, 2020",271270
+"United States, units unclear",,"May 11, 2020",384816
+"United States, units unclear",,"May 12, 2020",305069
+"United States, units unclear",,"May 13, 2020",296388
+"United States, units unclear",,"May 14, 2020",377264
+"United States, units unclear",,"May 15, 2020",363384
+"United States, units unclear",,"May 16, 2020",353189
+"United States, units unclear",,"May 17, 2020",403206
+"United States, units unclear",,"May 18, 2020",348635
+"United States, units unclear",,"May 19, 2020",405413
+"United States, units unclear",,"May 20, 2020",408797
+"United States, units unclear",,"May 21, 2020",422344
+"United States, units unclear",,"May 22, 2020",399879
+"United States, units unclear",,"May 23, 2020",363028
+"United States, units unclear",,"May 24, 2020",373252
+"United States, units unclear",,"May 25, 2020",433325
+"United States, units unclear",,"May 26, 2020",305944
+"United States, units unclear",,"May 27, 2020",296601
+"United States, units unclear",,"May 28, 2020",411346
+"United States, units unclear",,"May 29, 2020",491271
+"United States, units unclear",,"May 30, 2020",429367
+"United States, units unclear",,"May 31, 2020",402334
+"United States, units unclear",,"Jun 1, 2020",404161
+"United States, units unclear",,"Jun 2, 2020",419824
+"United States, units unclear",,"Jun 3, 2020",458791
+"United States, units unclear",,"Jun 4, 2020",459934
+"United States, units unclear",,"Jun 5, 2020",545690
+"United States, units unclear",,"Jun 6, 2020",540153
+"United States, units unclear",,"Jun 7, 2020",447151
+"United States, units unclear",,"Jun 8, 2020",399495
+"United States, units unclear",,"Jun 9, 2020",413010
+"United States, units unclear",,"Jun 10, 2020",419637
 Uruguay,URY,"Mar 29, 2020",200
 Uruguay,URY,"Mar 30, 2020",299
 Uruguay,URY,"Mar 31, 2020",394
@@ -6091,7 +6062,6 @@ Uruguay,URY,"Jun 8, 2020",403
 Uruguay,URY,"Jun 9, 2020",464
 Uruguay,URY,"Jun 10, 2020",757
 Uruguay,URY,"Jun 11, 2020",820
-Uruguay,URY,"Jun 12, 2020",840
 Vietnam,VNM,"Mar 3, 2020",32
 Vietnam,VNM,"Mar 6, 2020",84
 Vietnam,VNM,"Mar 12, 2020",117
