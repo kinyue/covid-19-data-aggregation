@@ -21606,7 +21606,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,0,0,Somalia,SO,SOM,15442906,Africa
 18/03/2020,18,3,2020,0,0,Somalia,SO,SOM,15442906,Africa
 17/03/2020,17,3,2020,1,0,Somalia,SO,SOM,15442906,Africa
-25/06/2020,25,6,2020,5688,103,South_Africa,ZA,ZAF,58558267,Africa
+25/06/2020,25,6,2020,0,103,South_Africa,ZA,ZAF,58558267,Africa
 24/06/2020,24,6,2020,4518,111,South_Africa,ZA,ZAF,58558267,Africa
 23/06/2020,23,6,2020,4288,61,South_Africa,ZA,ZAF,58558267,Africa
 22/06/2020,22,6,2020,4621,53,South_Africa,ZA,ZAF,58558267,Africa
