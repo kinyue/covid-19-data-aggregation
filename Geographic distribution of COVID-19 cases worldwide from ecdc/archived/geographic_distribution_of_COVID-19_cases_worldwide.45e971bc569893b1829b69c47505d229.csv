@@ -1,4 +1,5 @@
 dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2019,continentExp
+28/06/2020,28,6,2020,0,0,Afghanistan,AF,AFG,38041757,Asia
 28/06/2020,28,6,2020,165,20,Afghanistan,AF,AFG,38041757,Asia
 27/06/2020,27,6,2020,276,8,Afghanistan,AF,AFG,38041757,Asia
 26/06/2020,26,6,2020,460,36,Afghanistan,AF,AFG,38041757,Asia
@@ -1882,6 +1883,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 20/03/2020,20,3,2020,2,0,Bahamas,BS,BHS,389486,America
 17/03/2020,17,3,2020,0,0,Bahamas,BS,BHS,389486,America
 16/03/2020,16,3,2020,1,0,Bahamas,BS,BHS,389486,America
+28/06/2020,28,6,2020,0,0,Bahrain,BH,BHR,1641164,Asia
 28/06/2020,28,6,2020,462,0,Bahrain,BH,BHR,1641164,Asia
 27/06/2020,27,6,2020,724,7,Bahrain,BH,BHR,1641164,Asia
 26/06/2020,26,6,2020,511,2,Bahrain,BH,BHR,1641164,Asia
@@ -6803,6 +6805,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 01/01/2020,1,1,2020,0,0,Denmark,DK,DNK,5806081,Europe
 31/12/2019,31,12,2019,0,0,Denmark,DK,DNK,5806081,Europe
 28/06/2020,28,6,2020,0,0,Djibouti,DJ,DJI,973557,Africa
+28/06/2020,28,6,2020,0,0,Djibouti,DJ,DJI,973557,Africa
 27/06/2020,27,6,2020,8,0,Djibouti,DJ,DJI,973557,Africa
 26/06/2020,26,6,2020,5,0,Djibouti,DJ,DJI,973557,Africa
 25/06/2020,25,6,2020,13,3,Djibouti,DJ,DJI,973557,Africa
@@ -7350,6 +7353,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Ecuador,EC,ECU,17373657,America
 01/01/2020,1,1,2020,0,0,Ecuador,EC,ECU,17373657,America
 31/12/2019,31,12,2019,0,0,Ecuador,EC,ECU,17373657,America
+28/06/2020,28,6,2020,0,0,Egypt,EG,EGY,100388076,Africa
 28/06/2020,28,6,2020,1168,88,Egypt,EG,EGY,100388076,Africa
 27/06/2020,27,6,2020,1625,87,Egypt,EG,EGY,100388076,Africa
 26/06/2020,26,6,2020,2989,168,Egypt,EG,EGY,100388076,Africa
@@ -11705,6 +11709,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Indonesia,ID,IDN,270625567,Asia
 01/01/2020,1,1,2020,0,0,Indonesia,ID,IDN,270625567,Asia
 31/12/2019,31,12,2019,0,0,Indonesia,ID,IDN,270625567,Asia
+28/06/2020,28,6,2020,0,0,Iran,IR,IRN,82913893,Asia
 28/06/2020,28,6,2020,2456,234,Iran,IR,IRN,82913893,Asia
 27/06/2020,27,6,2020,2628,0,Iran,IR,IRN,82913893,Asia
 26/06/2020,26,6,2020,2595,134,Iran,IR,IRN,82913893,Asia
@@ -11886,6 +11891,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Iran,IR,IRN,82913893,Asia
 01/01/2020,1,1,2020,0,0,Iran,IR,IRN,82913893,Asia
 31/12/2019,31,12,2019,0,0,Iran,IR,IRN,82913893,Asia
+28/06/2020,28,6,2020,0,0,Iraq,IQ,IRQ,39309789,Asia
 28/06/2020,28,6,2020,2069,101,Iraq,IQ,IRQ,39309789,Asia
 27/06/2020,27,6,2020,2054,122,Iraq,IQ,IRQ,39309789,Asia
 26/06/2020,26,6,2020,2437,107,Iraq,IQ,IRQ,39309789,Asia
@@ -13093,6 +13099,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 22/03/2020,22,3,2020,0,0,Jersey,JE,JEY,107796,Europe
 21/03/2020,21,3,2020,7,0,Jersey,JE,JEY,107796,Europe
 20/03/2020,20,3,2020,5,0,Jersey,JE,JEY,107796,Europe
+28/06/2020,28,6,2020,0,0,Jordan,JO,JOR,10101697,Asia
 28/06/2020,28,6,2020,7,0,Jordan,JO,JOR,10101697,Asia
 27/06/2020,27,6,2020,18,0,Jordan,JO,JOR,10101697,Asia
 26/06/2020,26,6,2020,15,0,Jordan,JO,JOR,10101697,Asia
@@ -13519,6 +13526,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 18/03/2020,18,3,2020,17,0,Kosovo,XK,XKX,1798506,Europe
 17/03/2020,17,3,2020,0,0,Kosovo,XK,XKX,1798506,Europe
 16/03/2020,16,3,2020,2,0,Kosovo,XK,XKX,1798506,Europe
+28/06/2020,28,6,2020,0,0,Kuwait,KW,KWT,4207077,Asia
 28/06/2020,28,6,2020,688,3,Kuwait,KW,KWT,4207077,Asia
 27/06/2020,27,6,2020,915,2,Kuwait,KW,KWT,4207077,Asia
 26/06/2020,26,6,2020,909,2,Kuwait,KW,KWT,4207077,Asia
@@ -14009,6 +14017,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 09/03/2020,9,3,2020,1,0,Latvia,LV,LVA,1919968,Europe
 08/03/2020,8,3,2020,1,0,Latvia,LV,LVA,1919968,Europe
 03/03/2020,3,3,2020,1,0,Latvia,LV,LVA,1919968,Europe
+28/06/2020,28,6,2020,0,0,Lebanon,LB,LBN,6855709,Asia
 28/06/2020,28,6,2020,22,0,Lebanon,LB,LBN,6855709,Asia
 27/06/2020,27,6,2020,35,0,Lebanon,LB,LBN,6855709,Asia
 26/06/2020,26,6,2020,18,0,Lebanon,LB,LBN,6855709,Asia
@@ -14335,6 +14344,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 19/03/2020,19,3,2020,0,0,Liberia,LR,LBR,4937374,Africa
 18/03/2020,18,3,2020,1,0,Liberia,LR,LBR,4937374,Africa
 17/03/2020,17,3,2020,1,0,Liberia,LR,LBR,4937374,Africa
+28/06/2020,28,6,2020,0,0,Libya,LY,LBY,6777453,Africa
 28/06/2020,28,6,2020,15,0,Libya,LY,LBY,6777453,Africa
 27/06/2020,27,6,2020,0,0,Libya,LY,LBY,6777453,Africa
 26/06/2020,26,6,2020,59,0,Libya,LY,LBY,6777453,Africa
@@ -16541,6 +16551,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 23/03/2020,23,3,2020,0,0,Montserrat,MS,MSF,4991,America
 22/03/2020,22,3,2020,0,0,Montserrat,MS,MSF,4991,America
 21/03/2020,21,3,2020,1,0,Montserrat,MS,MSF,4991,America
+28/06/2020,28,6,2020,0,0,Morocco,MA,MAR,36471766,Africa
 28/06/2020,28,6,2020,244,2,Morocco,MA,MAR,36471766,Africa
 27/06/2020,27,6,2020,295,1,Morocco,MA,MAR,36471766,Africa
 26/06/2020,26,6,2020,431,1,Morocco,MA,MAR,36471766,Africa
@@ -18390,6 +18401,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Norway,NO,NOR,5328212,Europe
 01/01/2020,1,1,2020,0,0,Norway,NO,NOR,5328212,Europe
 31/12/2019,31,12,2019,0,0,Norway,NO,NOR,5328212,Europe
+28/06/2020,28,6,2020,0,0,Oman,OM,OMN,4974992,Asia
 28/06/2020,28,6,2020,919,6,Oman,OM,OMN,4974992,Asia
 27/06/2020,27,6,2020,1132,9,Oman,OM,OMN,4974992,Asia
 26/06/2020,26,6,2020,1366,2,Oman,OM,OMN,4974992,Asia
@@ -18565,6 +18577,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Oman,OM,OMN,4974992,Asia
 01/01/2020,1,1,2020,0,0,Oman,OM,OMN,4974992,Asia
 31/12/2019,31,12,2019,0,0,Oman,OM,OMN,4974992,Asia
+28/06/2020,28,6,2020,0,0,Pakistan,PK,PAK,216565317,Asia
 28/06/2020,28,6,2020,4072,83,Pakistan,PK,PAK,216565317,Asia
 27/06/2020,27,6,2020,3138,73,Pakistan,PK,PAK,216565317,Asia
 26/06/2020,26,6,2020,2775,59,Pakistan,PK,PAK,216565317,Asia
@@ -18741,6 +18754,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Pakistan,PK,PAK,216565317,Asia
 01/01/2020,1,1,2020,0,0,Pakistan,PK,PAK,216565317,Asia
 31/12/2019,31,12,2019,0,0,Pakistan,PK,PAK,216565317,Asia
+28/06/2020,28,6,2020,0,0,Palestine,PS,PSE,4981422,Asia
 28/06/2020,28,6,2020,258,1,Palestine,PS,PSE,4981422,Asia
 27/06/2020,27,6,2020,207,0,Palestine,PS,PSE,4981422,Asia
 26/06/2020,26,6,2020,54,0,Palestine,PS,PSE,4981422,Asia
@@ -19789,6 +19803,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 30/03/2020,30,3,2020,27,2,Puerto_Rico,PR,PRI,2933404,America
 29/03/2020,29,3,2020,36,1,Puerto_Rico,PR,PRI,2933404,America
 28/03/2020,28,3,2020,64,2,Puerto_Rico,PR,PRI,2933404,America
+28/06/2020,28,6,2020,0,0,Qatar,QA,QAT,2832071,Asia
 28/06/2020,28,6,2020,879,1,Qatar,QA,QAT,2832071,Asia
 27/06/2020,27,6,2020,946,3,Qatar,QA,QAT,2832071,Asia
 26/06/2020,26,6,2020,1060,2,Qatar,QA,QAT,2832071,Asia
@@ -20991,6 +21006,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 11/04/2020,11,4,2020,0,0,Sao_Tome_and_Principe,ST,STP,215048,Africa
 10/04/2020,10,4,2020,0,0,Sao_Tome_and_Principe,ST,STP,215048,Africa
 09/04/2020,9,4,2020,4,0,Sao_Tome_and_Principe,ST,STP,215048,Africa
+28/06/2020,28,6,2020,0,0,Saudi_Arabia,SA,SAU,34268529,Asia
 28/06/2020,28,6,2020,3927,37,Saudi_Arabia,SA,SAU,34268529,Asia
 27/06/2020,27,6,2020,3938,46,Saudi_Arabia,SA,SAU,34268529,Asia
 26/06/2020,26,6,2020,3372,41,Saudi_Arabia,SA,SAU,34268529,Asia
@@ -22028,6 +22044,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 06/03/2020,6,3,2020,5,0,Slovenia,SI,SVN,2080908,Europe
 05/03/2020,5,3,2020,1,0,Slovenia,SI,SVN,2080908,Europe
 28/06/2020,28,6,2020,0,0,Somalia,SO,SOM,15442906,Africa
+28/06/2020,28,6,2020,0,0,Somalia,SO,SOM,15442906,Africa
 27/06/2020,27,6,2020,0,0,Somalia,SO,SOM,15442906,Africa
 26/06/2020,26,6,2020,18,0,Somalia,SO,SOM,15442906,Africa
 25/06/2020,25,6,2020,25,0,Somalia,SO,SOM,15442906,Africa
@@ -22861,6 +22878,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Sri_Lanka,LK,LKA,21323734,Asia
 01/01/2020,1,1,2020,0,0,Sri_Lanka,LK,LKA,21323734,Asia
 31/12/2019,31,12,2019,0,0,Sri_Lanka,LK,LKA,21323734,Asia
+28/06/2020,28,6,2020,0,0,Sudan,SD,SDN,42813237,Africa
 28/06/2020,28,6,2020,1,0,Sudan,SD,SDN,42813237,Africa
 27/06/2020,27,6,2020,273,16,Sudan,SD,SDN,42813237,Africa
 26/06/2020,26,6,2020,95,8,Sudan,SD,SDN,42813237,Africa
@@ -23431,6 +23449,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 02/01/2020,2,1,2020,0,0,Switzerland,CH,CHE,8544527,Europe
 01/01/2020,1,1,2020,0,0,Switzerland,CH,CHE,8544527,Europe
 31/12/2019,31,12,2019,0,0,Switzerland,CH,CHE,8544527,Europe
+28/06/2020,28,6,2020,0,0,Syria,SY,SYR,17070132,Asia
 28/06/2020,28,6,2020,1,1,Syria,SY,SYR,17070132,Asia
 27/06/2020,27,6,2020,13,1,Syria,SY,SYR,17070132,Asia
 26/06/2020,26,6,2020,11,0,Syria,SY,SYR,17070132,Asia
@@ -24255,6 +24274,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 15/03/2020,15,3,2020,0,0,Trinidad_and_Tobago,TT,TTO,1394969,America
 14/03/2020,14,3,2020,1,0,Trinidad_and_Tobago,TT,TTO,1394969,America
 13/03/2020,13,3,2020,1,0,Trinidad_and_Tobago,TT,TTO,1394969,America
+28/06/2020,28,6,2020,0,0,Tunisia,TN,TUN,11694721,Africa
 28/06/2020,28,6,2020,4,0,Tunisia,TN,TUN,11694721,Africa
 27/06/2020,27,6,2020,2,0,Tunisia,TN,TUN,11694721,Africa
 26/06/2020,26,6,2020,2,0,Tunisia,TN,TUN,11694721,Africa
@@ -24776,6 +24796,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 16/03/2020,16,3,2020,0,0,Ukraine,UA,UKR,43993643,Europe
 13/03/2020,13,3,2020,2,0,Ukraine,UA,UKR,43993643,Europe
 04/03/2020,4,3,2020,1,0,Ukraine,UA,UKR,43993643,Europe
+28/06/2020,28,6,2020,0,0,United_Arab_Emirates,AE,ARE,9770526,Asia
 28/06/2020,28,6,2020,387,1,United_Arab_Emirates,AE,ARE,9770526,Asia
 27/06/2020,27,6,2020,410,2,United_Arab_Emirates,AE,ARE,9770526,Asia
 26/06/2020,26,6,2020,430,1,United_Arab_Emirates,AE,ARE,9770526,Asia
@@ -26070,6 +26091,7 @@ dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterrito
 28/04/2020,28,4,2020,0,0,Western_Sahara,EH,ESH,582458,Africa
 27/04/2020,27,4,2020,0,0,Western_Sahara,EH,ESH,582458,Africa
 26/04/2020,26,4,2020,6,0,Western_Sahara,EH,ESH,582458,Africa
+28/06/2020,28,6,2020,0,0,Yemen,YE,YEM,29161922,Asia
 28/06/2020,28,6,2020,14,3,Yemen,YE,YEM,29161922,Asia
 27/06/2020,27,6,2020,13,5,Yemen,YE,YEM,29161922,Asia
 26/06/2020,26,6,2020,61,14,Yemen,YE,YEM,29161922,Asia
