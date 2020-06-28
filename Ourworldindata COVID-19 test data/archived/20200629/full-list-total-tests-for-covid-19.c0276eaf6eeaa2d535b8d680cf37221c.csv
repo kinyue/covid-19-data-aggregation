@@ -70,9 +70,6 @@ Argentina,ARG,"Jun 22, 2020",285391
 Argentina,ARG,"Jun 23, 2020",292511
 Argentina,ARG,"Jun 24, 2020",300345
 Argentina,ARG,"Jun 25, 2020",309601
-Argentina,ARG,"Jun 26, 2020",318721
-Argentina,ARG,"Jun 27, 2020",329036
-Argentina,ARG,"Jun 28, 2020",336951
 Australia,AUS,"Mar 22, 2020",143056
 Australia,AUS,"Mar 29, 2020",211261
 Australia,AUS,"Apr 5, 2020",297154
@@ -156,10 +153,6 @@ Australia,AUS,"Jun 21, 2020",2041324
 Australia,AUS,"Jun 22, 2020",2107849
 Australia,AUS,"Jun 23, 2020",2132821
 Australia,AUS,"Jun 24, 2020",2180424
-Australia,AUS,"Jun 25, 2020",2232341
-Australia,AUS,"Jun 26, 2020",2281839
-Australia,AUS,"Jun 27, 2020",2336061
-Australia,AUS,"Jun 28, 2020",2379175
 Austria,AUT,"Feb 25, 2020",218
 Austria,AUT,"Feb 26, 2020",321
 Austria,AUT,"Feb 27, 2020",447
@@ -278,9 +271,6 @@ Austria,AUT,"Jun 22, 2020",565800
 Austria,AUT,"Jun 23, 2020",572473
 Austria,AUT,"Jun 24, 2020",578584
 Austria,AUT,"Jun 25, 2020",584243
-Austria,AUT,"Jun 26, 2020",590442
-Austria,AUT,"Jun 27, 2020",597495
-Austria,AUT,"Jun 28, 2020",602520
 Bahrain,BHR,"Mar 5, 2020",5334
 Bahrain,BHR,"Mar 7, 2020",6420
 Bahrain,BHR,"Mar 9, 2020",7830
@@ -374,8 +364,6 @@ Bahrain,BHR,"Jun 22, 2020",485715
 Bahrain,BHR,"Jun 24, 2020",494028
 Bahrain,BHR,"Jun 25, 2020",502763
 Bahrain,BHR,"Jun 26, 2020",511458
-Bahrain,BHR,"Jun 27, 2020",521101
-Bahrain,BHR,"Jun 28, 2020",529242
 Bangladesh,BGD,"Mar 4, 2020",108
 Bangladesh,BGD,"Mar 5, 2020",111
 Bangladesh,BGD,"Mar 7, 2020",120
@@ -488,10 +476,6 @@ Bangladesh,BGD,"Jun 21, 2020",615164
 Bangladesh,BGD,"Jun 22, 2020",630719
 Bangladesh,BGD,"Jun 23, 2020",647011
 Bangladesh,BGD,"Jun 24, 2020",663444
-Bangladesh,BGD,"Jun 25, 2020",681443
-Bangladesh,BGD,"Jun 26, 2020",699941
-Bangladesh,BGD,"Jun 27, 2020",715098
-Bangladesh,BGD,"Jun 28, 2020",733197
 Belarus,BLR,"Mar 3, 2020",5000
 Belarus,BLR,"Mar 12, 2020",10500
 Belarus,BLR,"Mar 16, 2020",16000
@@ -553,7 +537,6 @@ Belarus,BLR,"Jun 20, 2020",842173
 Belarus,BLR,"Jun 22, 2020",876639
 Belarus,BLR,"Jun 24, 2020",901904
 Belarus,BLR,"Jun 25, 2020",919139
-Belarus,BLR,"Jun 26, 2020",939524
 Belgium,BEL,"Mar 1, 2020",56
 Belgium,BEL,"Mar 2, 2020",324
 Belgium,BEL,"Mar 3, 2020",796
@@ -562,115 +545,113 @@ Belgium,BEL,"Mar 5, 2020",2145
 Belgium,BEL,"Mar 6, 2020",3171
 Belgium,BEL,"Mar 7, 2020",3572
 Belgium,BEL,"Mar 8, 2020",3983
-Belgium,BEL,"Mar 9, 2020",4494
-Belgium,BEL,"Mar 10, 2020",5171
-Belgium,BEL,"Mar 11, 2020",6083
-Belgium,BEL,"Mar 12, 2020",7348
-Belgium,BEL,"Mar 13, 2020",9454
-Belgium,BEL,"Mar 14, 2020",11164
-Belgium,BEL,"Mar 15, 2020",12196
-Belgium,BEL,"Mar 16, 2020",13632
-Belgium,BEL,"Mar 17, 2020",15407
-Belgium,BEL,"Mar 18, 2020",17488
-Belgium,BEL,"Mar 19, 2020",20001
-Belgium,BEL,"Mar 20, 2020",22454
-Belgium,BEL,"Mar 21, 2020",24207
-Belgium,BEL,"Mar 22, 2020",25278
-Belgium,BEL,"Mar 23, 2020",27716
-Belgium,BEL,"Mar 24, 2020",30685
-Belgium,BEL,"Mar 25, 2020",33934
-Belgium,BEL,"Mar 26, 2020",37060
-Belgium,BEL,"Mar 27, 2020",40728
-Belgium,BEL,"Mar 28, 2020",43639
-Belgium,BEL,"Mar 29, 2020",45463
-Belgium,BEL,"Mar 30, 2020",48456
-Belgium,BEL,"Mar 31, 2020",53050
-Belgium,BEL,"Apr 1, 2020",57085
-Belgium,BEL,"Apr 2, 2020",61275
-Belgium,BEL,"Apr 3, 2020",65751
-Belgium,BEL,"Apr 4, 2020",69459
-Belgium,BEL,"Apr 5, 2020",71719
-Belgium,BEL,"Apr 6, 2020",75480
-Belgium,BEL,"Apr 7, 2020",80487
-Belgium,BEL,"Apr 8, 2020",85564
-Belgium,BEL,"Apr 9, 2020",90659
-Belgium,BEL,"Apr 10, 2020",96298
-Belgium,BEL,"Apr 11, 2020",102068
-Belgium,BEL,"Apr 12, 2020",107605
-Belgium,BEL,"Apr 13, 2020",112756
-Belgium,BEL,"Apr 14, 2020",118252
-Belgium,BEL,"Apr 15, 2020",125301
-Belgium,BEL,"Apr 16, 2020",132032
-Belgium,BEL,"Apr 17, 2020",139938
-Belgium,BEL,"Apr 18, 2020",147824
-Belgium,BEL,"Apr 19, 2020",153382
-Belgium,BEL,"Apr 20, 2020",162024
-Belgium,BEL,"Apr 21, 2020",169017
-Belgium,BEL,"Apr 22, 2020",181329
-Belgium,BEL,"Apr 23, 2020",194769
-Belgium,BEL,"Apr 24, 2020",209993
-Belgium,BEL,"Apr 25, 2020",224132
-Belgium,BEL,"Apr 26, 2020",236022
-Belgium,BEL,"Apr 27, 2020",250574
-Belgium,BEL,"Apr 28, 2020",267119
-Belgium,BEL,"Apr 29, 2020",286568
-Belgium,BEL,"Apr 30, 2020",307865
-Belgium,BEL,"May 1, 2020",329112
-Belgium,BEL,"May 2, 2020",343769
-Belgium,BEL,"May 3, 2020",355708
-Belgium,BEL,"May 4, 2020",376257
-Belgium,BEL,"May 5, 2020",393676
-Belgium,BEL,"May 6, 2020",410842
-Belgium,BEL,"May 7, 2020",428941
-Belgium,BEL,"May 8, 2020",450921
-Belgium,BEL,"May 9, 2020",468683
-Belgium,BEL,"May 10, 2020",478952
-Belgium,BEL,"May 11, 2020",486944
-Belgium,BEL,"May 12, 2020",503142
-Belgium,BEL,"May 13, 2020",522411
-Belgium,BEL,"May 14, 2020",538722
-Belgium,BEL,"May 15, 2020",555353
-Belgium,BEL,"May 16, 2020",566892
-Belgium,BEL,"May 17, 2020",575165
-Belgium,BEL,"May 18, 2020",582276
-Belgium,BEL,"May 19, 2020",594978
-Belgium,BEL,"May 20, 2020",609151
-Belgium,BEL,"May 21, 2020",616649
-Belgium,BEL,"May 22, 2020",626369
-Belgium,BEL,"May 23, 2020",632895
-Belgium,BEL,"May 24, 2020",638202
-Belgium,BEL,"May 25, 2020",644917
-Belgium,BEL,"May 26, 2020",656973
-Belgium,BEL,"May 27, 2020",670638
-Belgium,BEL,"May 28, 2020",679934
-Belgium,BEL,"May 29, 2020",690301
-Belgium,BEL,"May 30, 2020",697567
-Belgium,BEL,"May 31, 2020",702730
-Belgium,BEL,"Jun 1, 2020",706633
-Belgium,BEL,"Jun 2, 2020",714037
-Belgium,BEL,"Jun 3, 2020",724801
-Belgium,BEL,"Jun 4, 2020",733652
-Belgium,BEL,"Jun 5, 2020",743101
-Belgium,BEL,"Jun 6, 2020",751950
-Belgium,BEL,"Jun 7, 2020",757366
-Belgium,BEL,"Jun 8, 2020",765193
-Belgium,BEL,"Jun 9, 2020",776197
-Belgium,BEL,"Jun 10, 2020",786732
-Belgium,BEL,"Jun 11, 2020",797126
-Belgium,BEL,"Jun 12, 2020",807269
-Belgium,BEL,"Jun 13, 2020",816686
-Belgium,BEL,"Jun 14, 2020",821043
-Belgium,BEL,"Jun 15, 2020",829818
-Belgium,BEL,"Jun 16, 2020",840963
-Belgium,BEL,"Jun 17, 2020",852550
-Belgium,BEL,"Jun 18, 2020",862840
-Belgium,BEL,"Jun 19, 2020",872932
-Belgium,BEL,"Jun 20, 2020",882537
-Belgium,BEL,"Jun 21, 2020",887338
-Belgium,BEL,"Jun 22, 2020",894888
-Belgium,BEL,"Jun 23, 2020",908096
-Belgium,BEL,"Jun 24, 2020",921109
-Belgium,BEL,"Jun 25, 2020",929914
+Belgium,BEL,"Mar 9, 2020",4495
+Belgium,BEL,"Mar 10, 2020",5172
+Belgium,BEL,"Mar 11, 2020",6084
+Belgium,BEL,"Mar 12, 2020",7351
+Belgium,BEL,"Mar 13, 2020",9461
+Belgium,BEL,"Mar 14, 2020",11173
+Belgium,BEL,"Mar 15, 2020",12206
+Belgium,BEL,"Mar 16, 2020",13644
+Belgium,BEL,"Mar 17, 2020",15423
+Belgium,BEL,"Mar 18, 2020",17505
+Belgium,BEL,"Mar 19, 2020",20018
+Belgium,BEL,"Mar 20, 2020",22474
+Belgium,BEL,"Mar 21, 2020",24228
+Belgium,BEL,"Mar 22, 2020",25300
+Belgium,BEL,"Mar 23, 2020",27738
+Belgium,BEL,"Mar 24, 2020",30707
+Belgium,BEL,"Mar 25, 2020",33958
+Belgium,BEL,"Mar 26, 2020",37084
+Belgium,BEL,"Mar 27, 2020",40754
+Belgium,BEL,"Mar 28, 2020",43667
+Belgium,BEL,"Mar 29, 2020",45494
+Belgium,BEL,"Mar 30, 2020",48487
+Belgium,BEL,"Mar 31, 2020",53084
+Belgium,BEL,"Apr 1, 2020",57124
+Belgium,BEL,"Apr 2, 2020",61317
+Belgium,BEL,"Apr 3, 2020",65794
+Belgium,BEL,"Apr 4, 2020",69505
+Belgium,BEL,"Apr 5, 2020",71766
+Belgium,BEL,"Apr 6, 2020",75530
+Belgium,BEL,"Apr 7, 2020",80539
+Belgium,BEL,"Apr 8, 2020",85618
+Belgium,BEL,"Apr 9, 2020",90715
+Belgium,BEL,"Apr 10, 2020",96358
+Belgium,BEL,"Apr 11, 2020",102130
+Belgium,BEL,"Apr 12, 2020",107667
+Belgium,BEL,"Apr 13, 2020",112821
+Belgium,BEL,"Apr 14, 2020",118317
+Belgium,BEL,"Apr 15, 2020",125367
+Belgium,BEL,"Apr 16, 2020",132101
+Belgium,BEL,"Apr 17, 2020",140011
+Belgium,BEL,"Apr 18, 2020",147900
+Belgium,BEL,"Apr 19, 2020",153459
+Belgium,BEL,"Apr 20, 2020",162102
+Belgium,BEL,"Apr 21, 2020",169099
+Belgium,BEL,"Apr 22, 2020",181417
+Belgium,BEL,"Apr 23, 2020",194866
+Belgium,BEL,"Apr 24, 2020",210099
+Belgium,BEL,"Apr 25, 2020",224239
+Belgium,BEL,"Apr 26, 2020",236131
+Belgium,BEL,"Apr 27, 2020",250691
+Belgium,BEL,"Apr 28, 2020",267241
+Belgium,BEL,"Apr 29, 2020",286698
+Belgium,BEL,"Apr 30, 2020",308006
+Belgium,BEL,"May 1, 2020",329266
+Belgium,BEL,"May 2, 2020",343925
+Belgium,BEL,"May 3, 2020",355865
+Belgium,BEL,"May 4, 2020",376419
+Belgium,BEL,"May 5, 2020",393843
+Belgium,BEL,"May 6, 2020",411018
+Belgium,BEL,"May 7, 2020",429120
+Belgium,BEL,"May 8, 2020",451108
+Belgium,BEL,"May 9, 2020",468873
+Belgium,BEL,"May 10, 2020",479151
+Belgium,BEL,"May 11, 2020",487146
+Belgium,BEL,"May 12, 2020",503345
+Belgium,BEL,"May 13, 2020",522624
+Belgium,BEL,"May 14, 2020",538946
+Belgium,BEL,"May 15, 2020",555583
+Belgium,BEL,"May 16, 2020",567128
+Belgium,BEL,"May 17, 2020",575404
+Belgium,BEL,"May 18, 2020",582517
+Belgium,BEL,"May 19, 2020",595224
+Belgium,BEL,"May 20, 2020",609402
+Belgium,BEL,"May 21, 2020",616904
+Belgium,BEL,"May 22, 2020",626627
+Belgium,BEL,"May 23, 2020",633158
+Belgium,BEL,"May 24, 2020",638467
+Belgium,BEL,"May 25, 2020",645189
+Belgium,BEL,"May 26, 2020",657251
+Belgium,BEL,"May 27, 2020",670918
+Belgium,BEL,"May 28, 2020",680218
+Belgium,BEL,"May 29, 2020",690591
+Belgium,BEL,"May 30, 2020",697859
+Belgium,BEL,"May 31, 2020",703023
+Belgium,BEL,"Jun 1, 2020",706927
+Belgium,BEL,"Jun 2, 2020",714336
+Belgium,BEL,"Jun 3, 2020",725103
+Belgium,BEL,"Jun 4, 2020",733963
+Belgium,BEL,"Jun 5, 2020",743419
+Belgium,BEL,"Jun 6, 2020",752270
+Belgium,BEL,"Jun 7, 2020",757689
+Belgium,BEL,"Jun 8, 2020",765517
+Belgium,BEL,"Jun 9, 2020",776527
+Belgium,BEL,"Jun 10, 2020",787073
+Belgium,BEL,"Jun 11, 2020",797472
+Belgium,BEL,"Jun 12, 2020",807620
+Belgium,BEL,"Jun 13, 2020",817045
+Belgium,BEL,"Jun 14, 2020",821407
+Belgium,BEL,"Jun 15, 2020",830184
+Belgium,BEL,"Jun 16, 2020",841326
+Belgium,BEL,"Jun 17, 2020",852910
+Belgium,BEL,"Jun 18, 2020",863190
+Belgium,BEL,"Jun 19, 2020",873218
+Belgium,BEL,"Jun 20, 2020",882880
+Belgium,BEL,"Jun 21, 2020",887680
+Belgium,BEL,"Jun 22, 2020",895019
+Belgium,BEL,"Jun 23, 2020",905354
 Bolivia,BOL,"Mar 14, 2020",26
 Bolivia,BOL,"Mar 15, 2020",33
 Bolivia,BOL,"Mar 16, 2020",45
@@ -834,8 +815,6 @@ Bulgaria,BGR,"Jun 23, 2020",119556
 Bulgaria,BGR,"Jun 24, 2020",122502
 Bulgaria,BGR,"Jun 25, 2020",125518
 Bulgaria,BGR,"Jun 26, 2020",128293
-Bulgaria,BGR,"Jun 27, 2020",131043
-Bulgaria,BGR,"Jun 28, 2020",132571
 Canada,CAN,"Mar 18, 2020",53975
 Canada,CAN,"Mar 19, 2020",54956
 Canada,CAN,"Mar 20, 2020",76814
@@ -935,8 +914,6 @@ Canada,CAN,"Jun 23, 2020",2444042
 Canada,CAN,"Jun 24, 2020",2482793
 Canada,CAN,"Jun 25, 2020",2518574
 Canada,CAN,"Jun 26, 2020",2558287
-Canada,CAN,"Jun 27, 2020",2598167
-Canada,CAN,"Jun 28, 2020",2640239
 Chile,CHL,"Apr 1, 2020",38040
 Chile,CHL,"Apr 2, 2020",40725
 Chile,CHL,"Apr 3, 2020",44130
@@ -1023,8 +1000,6 @@ Chile,CHL,"Jun 22, 2020",982353
 Chile,CHL,"Jun 23, 2020",995060
 Chile,CHL,"Jun 24, 2020",1007635
 Chile,CHL,"Jun 25, 2020",1025081
-Chile,CHL,"Jun 26, 2020",1043330
-Chile,CHL,"Jun 27, 2020",1061274
 Colombia,COL,"Mar 5, 2020",636
 Colombia,COL,"Mar 6, 2020",739
 Colombia,COL,"Mar 7, 2020",810
@@ -1138,8 +1113,6 @@ Colombia,COL,"Jun 22, 2020",620288
 Colombia,COL,"Jun 23, 2020",634611
 Colombia,COL,"Jun 24, 2020",651592
 Colombia,COL,"Jun 25, 2020",670093
-Colombia,COL,"Jun 26, 2020",688959
-Colombia,COL,"Jun 27, 2020",707688
 Costa Rica,CRI,"Mar 11, 2020",68
 Costa Rica,CRI,"Mar 12, 2020",157
 Costa Rica,CRI,"Mar 13, 2020",243
@@ -1354,8 +1327,6 @@ Croatia,HRV,"Jun 22, 2020",72746
 Croatia,HRV,"Jun 23, 2020",73093
 Croatia,HRV,"Jun 24, 2020",73738
 Croatia,HRV,"Jun 25, 2020",74657
-Croatia,HRV,"Jun 27, 2020",76624
-Croatia,HRV,"Jun 28, 2020",77453
 Cuba,CUB,"Mar 22, 2020",518
 Cuba,CUB,"Mar 23, 2020",625
 Cuba,CUB,"Mar 24, 2020",738
@@ -1451,9 +1422,6 @@ Cuba,CUB,"Jun 21, 2020",153233
 Cuba,CUB,"Jun 22, 2020",155381
 Cuba,CUB,"Jun 23, 2020",157387
 Cuba,CUB,"Jun 24, 2020",159571
-Cuba,CUB,"Jun 25, 2020",161674
-Cuba,CUB,"Jun 26, 2020",163962
-Cuba,CUB,"Jun 27, 2020",166335
 Czech Republic,CZE,"Jan 27, 2020",20
 Czech Republic,CZE,"Jan 28, 2020",28
 Czech Republic,CZE,"Jan 29, 2020",33
@@ -1595,12 +1563,9 @@ Czech Republic,CZE,"Jun 18, 2020",514268
 Czech Republic,CZE,"Jun 19, 2020",517823
 Czech Republic,CZE,"Jun 20, 2020",519500
 Czech Republic,CZE,"Jun 21, 2020",520813
-Czech Republic,CZE,"Jun 22, 2020",524681
-Czech Republic,CZE,"Jun 23, 2020",529279
-Czech Republic,CZE,"Jun 24, 2020",533505
-Czech Republic,CZE,"Jun 25, 2020",537231
-Czech Republic,CZE,"Jun 26, 2020",541560
-Czech Republic,CZE,"Jun 27, 2020",543925
+Czech Republic,CZE,"Jun 22, 2020",524624
+Czech Republic,CZE,"Jun 23, 2020",529222
+Czech Republic,CZE,"Jun 24, 2020",532987
 Denmark,DNK,"Jan 27, 2020",1
 Denmark,DNK,"Feb 2, 2020",2
 Denmark,DNK,"Feb 3, 2020",3
@@ -1707,37 +1672,36 @@ Denmark,DNK,"May 22, 2020",523717
 Denmark,DNK,"May 23, 2020",532498
 Denmark,DNK,"May 24, 2020",541164
 Denmark,DNK,"May 25, 2020",559459
-Denmark,DNK,"May 26, 2020",575433
-Denmark,DNK,"May 27, 2020",590218
-Denmark,DNK,"May 28, 2020",603382
-Denmark,DNK,"May 29, 2020",615160
-Denmark,DNK,"May 30, 2020",622337
-Denmark,DNK,"May 31, 2020",629970
-Denmark,DNK,"Jun 1, 2020",638692
-Denmark,DNK,"Jun 2, 2020",654224
-Denmark,DNK,"Jun 3, 2020",667677
-Denmark,DNK,"Jun 4, 2020",679541
-Denmark,DNK,"Jun 5, 2020",689195
-Denmark,DNK,"Jun 6, 2020",697165
-Denmark,DNK,"Jun 7, 2020",704910
-Denmark,DNK,"Jun 8, 2020",721764
-Denmark,DNK,"Jun 9, 2020",737411
-Denmark,DNK,"Jun 10, 2020",752368
-Denmark,DNK,"Jun 11, 2020",766915
-Denmark,DNK,"Jun 12, 2020",781779
-Denmark,DNK,"Jun 13, 2020",791787
-Denmark,DNK,"Jun 14, 2020",800850
-Denmark,DNK,"Jun 15, 2020",818562
-Denmark,DNK,"Jun 16, 2020",836759
-Denmark,DNK,"Jun 17, 2020",855978
-Denmark,DNK,"Jun 18, 2020",873489
-Denmark,DNK,"Jun 19, 2020",890465
-Denmark,DNK,"Jun 20, 2020",902562
-Denmark,DNK,"Jun 21, 2020",913974
-Denmark,DNK,"Jun 22, 2020",935400
-Denmark,DNK,"Jun 23, 2020",956084
-Denmark,DNK,"Jun 24, 2020",974456
-Denmark,DNK,"Jun 25, 2020",978592
+Denmark,DNK,"May 26, 2020",575431
+Denmark,DNK,"May 27, 2020",590216
+Denmark,DNK,"May 28, 2020",603380
+Denmark,DNK,"May 29, 2020",615158
+Denmark,DNK,"May 30, 2020",622335
+Denmark,DNK,"May 31, 2020",629968
+Denmark,DNK,"Jun 1, 2020",638690
+Denmark,DNK,"Jun 2, 2020",654222
+Denmark,DNK,"Jun 3, 2020",667675
+Denmark,DNK,"Jun 4, 2020",679539
+Denmark,DNK,"Jun 5, 2020",689193
+Denmark,DNK,"Jun 6, 2020",697163
+Denmark,DNK,"Jun 7, 2020",704908
+Denmark,DNK,"Jun 8, 2020",721762
+Denmark,DNK,"Jun 9, 2020",737408
+Denmark,DNK,"Jun 10, 2020",752364
+Denmark,DNK,"Jun 11, 2020",766911
+Denmark,DNK,"Jun 12, 2020",781775
+Denmark,DNK,"Jun 13, 2020",791783
+Denmark,DNK,"Jun 14, 2020",800846
+Denmark,DNK,"Jun 15, 2020",818558
+Denmark,DNK,"Jun 16, 2020",836754
+Denmark,DNK,"Jun 17, 2020",855973
+Denmark,DNK,"Jun 18, 2020",873483
+Denmark,DNK,"Jun 19, 2020",890459
+Denmark,DNK,"Jun 20, 2020",902546
+Denmark,DNK,"Jun 21, 2020",913958
+Denmark,DNK,"Jun 22, 2020",935088
+Denmark,DNK,"Jun 23, 2020",954622
+Denmark,DNK,"Jun 24, 2020",960329
 Ecuador,ECU,"Mar 18, 2020",480
 Ecuador,ECU,"Mar 19, 2020",672
 Ecuador,ECU,"Mar 20, 2020",959
@@ -1834,7 +1798,6 @@ Ecuador,ECU,"Jun 22, 2020",100756
 Ecuador,ECU,"Jun 23, 2020",102855
 Ecuador,ECU,"Jun 24, 2020",104572
 Ecuador,ECU,"Jun 25, 2020",106476
-Ecuador,ECU,"Jun 26, 2020",108471
 El Salvador,SLV,"Apr 10, 2020",5760
 El Salvador,SLV,"Apr 11, 2020",6272
 El Salvador,SLV,"Apr 12, 2020",6729
@@ -1910,10 +1873,6 @@ El Salvador,SLV,"Jun 20, 2020",140429
 El Salvador,SLV,"Jun 21, 2020",142886
 El Salvador,SLV,"Jun 22, 2020",145341
 El Salvador,SLV,"Jun 23, 2020",147771
-El Salvador,SLV,"Jun 24, 2020",150252
-El Salvador,SLV,"Jun 25, 2020",152729
-El Salvador,SLV,"Jun 26, 2020",155301
-El Salvador,SLV,"Jun 27, 2020",157799
 Estonia,EST,"Feb 25, 2020",5
 Estonia,EST,"Feb 26, 2020",13
 Estonia,EST,"Feb 27, 2020",23
@@ -2032,12 +1991,9 @@ Estonia,EST,"Jun 18, 2020",101740
 Estonia,EST,"Jun 19, 2020",102484
 Estonia,EST,"Jun 20, 2020",102924
 Estonia,EST,"Jun 21, 2020",103209
-Estonia,EST,"Jun 22, 2020",103683
-Estonia,EST,"Jun 23, 2020",103949
-Estonia,EST,"Jun 24, 2020",104297
-Estonia,EST,"Jun 25, 2020",104861
-Estonia,EST,"Jun 26, 2020",105309
-Estonia,EST,"Jun 27, 2020",105677
+Estonia,EST,"Jun 22, 2020",103684
+Estonia,EST,"Jun 23, 2020",103950
+Estonia,EST,"Jun 24, 2020",104300
 Ethiopia,ETH,"Mar 17, 2020",79
 Ethiopia,ETH,"Mar 22, 2020",392
 Ethiopia,ETH,"Mar 25, 2020",576
@@ -2104,9 +2060,6 @@ Ethiopia,ETH,"Jun 22, 2020",219566
 Ethiopia,ETH,"Jun 23, 2020",223341
 Ethiopia,ETH,"Jun 24, 2020",227375
 Ethiopia,ETH,"Jun 25, 2020",232050
-Ethiopia,ETH,"Jun 26, 2020",237464
-Ethiopia,ETH,"Jun 27, 2020",243016
-Ethiopia,ETH,"Jun 28, 2020",246911
 Finland,FIN,"Jan 30, 2020",73
 Finland,FIN,"Feb 26, 2020",77
 Finland,FIN,"Feb 27, 2020",86
@@ -2157,79 +2110,77 @@ Finland,FIN,"Apr 11, 2020",48211
 Finland,FIN,"Apr 12, 2020",49799
 Finland,FIN,"Apr 13, 2020",50719
 Finland,FIN,"Apr 14, 2020",51910
-Finland,FIN,"Apr 15, 2020",54203
-Finland,FIN,"Apr 16, 2020",57665
-Finland,FIN,"Apr 17, 2020",60379
-Finland,FIN,"Apr 18, 2020",63977
-Finland,FIN,"Apr 19, 2020",66336
-Finland,FIN,"Apr 20, 2020",68126
-Finland,FIN,"Apr 21, 2020",71633
-Finland,FIN,"Apr 22, 2020",75755
-Finland,FIN,"Apr 23, 2020",79335
-Finland,FIN,"Apr 24, 2020",83270
-Finland,FIN,"Apr 25, 2020",86261
-Finland,FIN,"Apr 26, 2020",88733
-Finland,FIN,"Apr 27, 2020",91130
-Finland,FIN,"Apr 28, 2020",94784
-Finland,FIN,"Apr 29, 2020",99092
-Finland,FIN,"Apr 30, 2020",103135
-Finland,FIN,"May 1, 2020",106387
-Finland,FIN,"May 2, 2020",107847
-Finland,FIN,"May 3, 2020",109461
-Finland,FIN,"May 4, 2020",111174
-Finland,FIN,"May 5, 2020",114854
-Finland,FIN,"May 6, 2020",118545
-Finland,FIN,"May 7, 2020",122250
-Finland,FIN,"May 8, 2020",125420
-Finland,FIN,"May 9, 2020",128090
-Finland,FIN,"May 10, 2020",129901
-Finland,FIN,"May 11, 2020",132055
-Finland,FIN,"May 12, 2020",135967
-Finland,FIN,"May 13, 2020",139806
-Finland,FIN,"May 14, 2020",143498
-Finland,FIN,"May 15, 2020",147687
-Finland,FIN,"May 16, 2020",150960
-Finland,FIN,"May 17, 2020",153239
-Finland,FIN,"May 18, 2020",155546
-Finland,FIN,"May 19, 2020",160256
-Finland,FIN,"May 20, 2020",163724
-Finland,FIN,"May 21, 2020",166563
-Finland,FIN,"May 22, 2020",168773
-Finland,FIN,"May 23, 2020",171268
-Finland,FIN,"May 24, 2020",172803
-Finland,FIN,"May 25, 2020",174545
-Finland,FIN,"May 26, 2020",178053
-Finland,FIN,"May 27, 2020",180915
-Finland,FIN,"May 28, 2020",183773
-Finland,FIN,"May 29, 2020",186462
-Finland,FIN,"May 30, 2020",188262
-Finland,FIN,"May 31, 2020",189526
-Finland,FIN,"Jun 1, 2020",191247
-Finland,FIN,"Jun 2, 2020",195014
-Finland,FIN,"Jun 3, 2020",197768
-Finland,FIN,"Jun 4, 2020",200399
-Finland,FIN,"Jun 5, 2020",202629
-Finland,FIN,"Jun 6, 2020",204572
-Finland,FIN,"Jun 7, 2020",205515
-Finland,FIN,"Jun 8, 2020",207196
-Finland,FIN,"Jun 9, 2020",209898
-Finland,FIN,"Jun 10, 2020",212616
-Finland,FIN,"Jun 11, 2020",215437
-Finland,FIN,"Jun 12, 2020",217763
-Finland,FIN,"Jun 13, 2020",219131
-Finland,FIN,"Jun 14, 2020",219929
-Finland,FIN,"Jun 15, 2020",221597
-Finland,FIN,"Jun 16, 2020",224346
-Finland,FIN,"Jun 17, 2020",226683
-Finland,FIN,"Jun 18, 2020",228637
-Finland,FIN,"Jun 19, 2020",229933
-Finland,FIN,"Jun 20, 2020",230648
-Finland,FIN,"Jun 21, 2020",231308
-Finland,FIN,"Jun 22, 2020",232763
-Finland,FIN,"Jun 23, 2020",235079
-Finland,FIN,"Jun 24, 2020",237230
-Finland,FIN,"Jun 25, 2020",239394
-Finland,FIN,"Jun 26, 2020",239670
+Finland,FIN,"Apr 15, 2020",54201
+Finland,FIN,"Apr 16, 2020",57663
+Finland,FIN,"Apr 17, 2020",60377
+Finland,FIN,"Apr 18, 2020",63975
+Finland,FIN,"Apr 19, 2020",66334
+Finland,FIN,"Apr 20, 2020",68124
+Finland,FIN,"Apr 21, 2020",71631
+Finland,FIN,"Apr 22, 2020",75753
+Finland,FIN,"Apr 23, 2020",79333
+Finland,FIN,"Apr 24, 2020",83268
+Finland,FIN,"Apr 25, 2020",86259
+Finland,FIN,"Apr 26, 2020",88731
+Finland,FIN,"Apr 27, 2020",91128
+Finland,FIN,"Apr 28, 2020",94782
+Finland,FIN,"Apr 29, 2020",99090
+Finland,FIN,"Apr 30, 2020",103133
+Finland,FIN,"May 1, 2020",106385
+Finland,FIN,"May 2, 2020",107845
+Finland,FIN,"May 3, 2020",109459
+Finland,FIN,"May 4, 2020",111172
+Finland,FIN,"May 5, 2020",114852
+Finland,FIN,"May 6, 2020",118543
+Finland,FIN,"May 7, 2020",122248
+Finland,FIN,"May 8, 2020",125413
+Finland,FIN,"May 9, 2020",128083
+Finland,FIN,"May 10, 2020",129894
+Finland,FIN,"May 11, 2020",132150
+Finland,FIN,"May 12, 2020",136219
+Finland,FIN,"May 13, 2020",140303
+Finland,FIN,"May 14, 2020",144233
+Finland,FIN,"May 15, 2020",148682
+Finland,FIN,"May 16, 2020",151955
+Finland,FIN,"May 17, 2020",154285
+Finland,FIN,"May 18, 2020",156683
+Finland,FIN,"May 19, 2020",161403
+Finland,FIN,"May 20, 2020",164922
+Finland,FIN,"May 21, 2020",167761
+Finland,FIN,"May 22, 2020",170035
+Finland,FIN,"May 23, 2020",172530
+Finland,FIN,"May 24, 2020",174065
+Finland,FIN,"May 25, 2020",175941
+Finland,FIN,"May 26, 2020",179487
+Finland,FIN,"May 27, 2020",182453
+Finland,FIN,"May 28, 2020",185464
+Finland,FIN,"May 29, 2020",188172
+Finland,FIN,"May 30, 2020",189972
+Finland,FIN,"May 31, 2020",191236
+Finland,FIN,"Jun 1, 2020",193048
+Finland,FIN,"Jun 2, 2020",196912
+Finland,FIN,"Jun 3, 2020",199733
+Finland,FIN,"Jun 4, 2020",202429
+Finland,FIN,"Jun 5, 2020",204725
+Finland,FIN,"Jun 6, 2020",206668
+Finland,FIN,"Jun 7, 2020",207611
+Finland,FIN,"Jun 8, 2020",209411
+Finland,FIN,"Jun 9, 2020",212228
+Finland,FIN,"Jun 10, 2020",215077
+Finland,FIN,"Jun 11, 2020",217951
+Finland,FIN,"Jun 12, 2020",220348
+Finland,FIN,"Jun 13, 2020",221711
+Finland,FIN,"Jun 14, 2020",222509
+Finland,FIN,"Jun 15, 2020",224177
+Finland,FIN,"Jun 16, 2020",226926
+Finland,FIN,"Jun 17, 2020",229263
+Finland,FIN,"Jun 18, 2020",231217
+Finland,FIN,"Jun 19, 2020",232513
+Finland,FIN,"Jun 20, 2020",233228
+Finland,FIN,"Jun 21, 2020",233888
+Finland,FIN,"Jun 22, 2020",235288
+Finland,FIN,"Jun 23, 2020",237405
+Finland,FIN,"Jun 24, 2020",237875
 "France, tests performed",,"Feb 24, 2020",31
 "France, tests performed",,"Feb 25, 2020",146
 "France, tests performed",,"Feb 26, 2020",412
@@ -2317,8 +2268,6 @@ Ghana,GHA,"Jun 20, 2020",270300
 Ghana,GHA,"Jun 21, 2020",277550
 Ghana,GHA,"Jun 22, 2020",280116
 Ghana,GHA,"Jun 23, 2020",283124
-Ghana,GHA,"Jun 24, 2020",286453
-Ghana,GHA,"Jun 25, 2020",288465
 "Ghana, people tested",,"Mar 17, 2020",143
 "Ghana, people tested",,"Mar 22, 2020",315
 "Ghana, people tested",,"Mar 23, 2020",521
@@ -2432,9 +2381,6 @@ Greece,GRC,"Jun 21, 2020",283146
 Greece,GRC,"Jun 22, 2020",285989
 Greece,GRC,"Jun 23, 2020",291187
 Greece,GRC,"Jun 25, 2020",291840
-Greece,GRC,"Jun 26, 2020",295851
-Greece,GRC,"Jun 27, 2020",301144
-Greece,GRC,"Jun 28, 2020",305137
 Hong Kong,HKG,"Jan 31, 2020",3610
 Hong Kong,HKG,"Feb 29, 2020",30593
 Hong Kong,HKG,"Mar 31, 2020",96598
@@ -2752,8 +2698,6 @@ India,IND,"Jun 23, 2020",7137716
 India,IND,"Jun 24, 2020",7352911
 India,IND,"Jun 25, 2020",7560782
 India,IND,"Jun 26, 2020",7776228
-India,IND,"Jun 27, 2020",7996707
-India,IND,"Jun 28, 2020",8227802
 "India, people tested",,"Mar 13, 2020",5900
 "India, people tested",,"Mar 18, 2020",12235
 "India, people tested",,"Mar 19, 2020",12426
@@ -2873,8 +2817,6 @@ Indonesia,IDN,"Jun 22, 2020",393117
 Indonesia,IDN,"Jun 23, 2020",401681
 Indonesia,IDN,"Jun 24, 2020",413919
 Indonesia,IDN,"Jun 25, 2020",427158
-Indonesia,IDN,"Jun 27, 2020",449569
-Indonesia,IDN,"Jun 28, 2020",456636
 Iran,IRN,"Apr 5, 2020",189790
 Iran,IRN,"Apr 8, 2020",220975
 Iran,IRN,"Apr 9, 2020",231393
@@ -2946,10 +2888,6 @@ Iran,IRN,"Jun 21, 2020",1422407
 Iran,IRN,"Jun 22, 2020",1449420
 Iran,IRN,"Jun 23, 2020",1475331
 Iran,IRN,"Jun 24, 2020",1502525
-Iran,IRN,"Jun 25, 2020",1530437
-Iran,IRN,"Jun 26, 2020",1557872
-Iran,IRN,"Jun 27, 2020",1583542
-Iran,IRN,"Jun 28, 2020",1610869
 Ireland,IRL,"Mar 9, 2020",1784
 Ireland,IRL,"Mar 17, 2020",6636
 Ireland,IRL,"Mar 23, 2020",17992
@@ -3031,14 +2969,14 @@ Israel,ISR,"Apr 3, 2020",107267
 Israel,ISR,"Apr 4, 2020",113618
 Israel,ISR,"Apr 5, 2020",123013
 Israel,ISR,"Apr 6, 2020",130507
-Israel,ISR,"Apr 7, 2020",137475
+Israel,ISR,"Apr 7, 2020",137474
 Israel,ISR,"Apr 8, 2020",143353
 Israel,ISR,"Apr 9, 2020",149096
 Israel,ISR,"Apr 10, 2020",156442
 Israel,ISR,"Apr 11, 2020",163144
 Israel,ISR,"Apr 12, 2020",173745
 Israel,ISR,"Apr 13, 2020",184694
-Israel,ISR,"Apr 14, 2020",197372
+Israel,ISR,"Apr 14, 2020",197371
 Israel,ISR,"Apr 15, 2020",206821
 Israel,ISR,"Apr 16, 2020",219610
 Israel,ISR,"Apr 17, 2020",231206
@@ -3051,62 +2989,58 @@ Israel,ISR,"Apr 23, 2020",309744
 Israel,ISR,"Apr 24, 2020",322369
 Israel,ISR,"Apr 25, 2020",331447
 Israel,ISR,"Apr 26, 2020",339909
-Israel,ISR,"Apr 27, 2020",351276
-Israel,ISR,"Apr 28, 2020",361916
-Israel,ISR,"Apr 29, 2020",370912
-Israel,ISR,"Apr 30, 2020",380841
-Israel,ISR,"May 1, 2020",391891
-Israel,ISR,"May 2, 2020",397459
-Israel,ISR,"May 3, 2020",405487
-Israel,ISR,"May 4, 2020",414744
-Israel,ISR,"May 5, 2020",423700
-Israel,ISR,"May 6, 2020",433165
-Israel,ISR,"May 7, 2020",443283
-Israel,ISR,"May 8, 2020",451440
-Israel,ISR,"May 9, 2020",455308
-Israel,ISR,"May 10, 2020",460252
-Israel,ISR,"May 11, 2020",469469
-Israel,ISR,"May 12, 2020",477005
-Israel,ISR,"May 13, 2020",485275
-Israel,ISR,"May 14, 2020",493690
-Israel,ISR,"May 15, 2020",499384
-Israel,ISR,"May 16, 2020",500886
-Israel,ISR,"May 17, 2020",505519
-Israel,ISR,"May 18, 2020",513211
-Israel,ISR,"May 19, 2020",520352
-Israel,ISR,"May 20, 2020",526320
-Israel,ISR,"May 21, 2020",532487
-Israel,ISR,"May 22, 2020",537483
-Israel,ISR,"May 23, 2020",538200
-Israel,ISR,"May 24, 2020",542009
-Israel,ISR,"May 25, 2020",547340
-Israel,ISR,"May 26, 2020",554158
-Israel,ISR,"May 27, 2020",560886
-Israel,ISR,"May 28, 2020",566240
-Israel,ISR,"May 29, 2020",568103
-Israel,ISR,"May 30, 2020",569161
-Israel,ISR,"May 31, 2020",574802
-Israel,ISR,"Jun 1, 2020",582959
-Israel,ISR,"Jun 2, 2020",594716
-Israel,ISR,"Jun 3, 2020",607925
-Israel,ISR,"Jun 4, 2020",622823
-Israel,ISR,"Jun 5, 2020",639296
-Israel,ISR,"Jun 6, 2020",650833
-Israel,ISR,"Jun 7, 2020",665930
-Israel,ISR,"Jun 8, 2020",680574
-Israel,ISR,"Jun 9, 2020",695631
-Israel,ISR,"Jun 10, 2020",714113
-Israel,ISR,"Jun 11, 2020",729923
-Israel,ISR,"Jun 12, 2020",743054
-Israel,ISR,"Jun 13, 2020",750033
-Israel,ISR,"Jun 14, 2020",758871
-Israel,ISR,"Jun 15, 2020",773304
-Israel,ISR,"Jun 16, 2020",789537
-Israel,ISR,"Jun 17, 2020",805556
-Israel,ISR,"Jun 18, 2020",822845
-Israel,ISR,"Jun 19, 2020",835597
-Israel,ISR,"Jun 20, 2020",841606
-Israel,ISR,"Jun 21, 2020",850679
+Israel,ISR,"Apr 27, 2020",351033
+Israel,ISR,"Apr 28, 2020",361673
+Israel,ISR,"Apr 29, 2020",370669
+Israel,ISR,"Apr 30, 2020",380598
+Israel,ISR,"May 1, 2020",391648
+Israel,ISR,"May 2, 2020",397216
+Israel,ISR,"May 3, 2020",405244
+Israel,ISR,"May 4, 2020",414501
+Israel,ISR,"May 5, 2020",423457
+Israel,ISR,"May 6, 2020",432922
+Israel,ISR,"May 7, 2020",443040
+Israel,ISR,"May 8, 2020",451197
+Israel,ISR,"May 9, 2020",455065
+Israel,ISR,"May 10, 2020",460009
+Israel,ISR,"May 11, 2020",469226
+Israel,ISR,"May 12, 2020",476762
+Israel,ISR,"May 13, 2020",485024
+Israel,ISR,"May 14, 2020",493432
+Israel,ISR,"May 15, 2020",499126
+Israel,ISR,"May 16, 2020",500628
+Israel,ISR,"May 17, 2020",505262
+Israel,ISR,"May 18, 2020",512953
+Israel,ISR,"May 19, 2020",520088
+Israel,ISR,"May 20, 2020",526054
+Israel,ISR,"May 21, 2020",532212
+Israel,ISR,"May 22, 2020",537208
+Israel,ISR,"May 23, 2020",537925
+Israel,ISR,"May 24, 2020",541734
+Israel,ISR,"May 25, 2020",547065
+Israel,ISR,"May 26, 2020",553876
+Israel,ISR,"May 27, 2020",560591
+Israel,ISR,"May 28, 2020",565945
+Israel,ISR,"May 29, 2020",567808
+Israel,ISR,"May 30, 2020",568866
+Israel,ISR,"May 31, 2020",574507
+Israel,ISR,"Jun 1, 2020",582663
+Israel,ISR,"Jun 2, 2020",594420
+Israel,ISR,"Jun 3, 2020",607626
+Israel,ISR,"Jun 4, 2020",622419
+Israel,ISR,"Jun 5, 2020",638855
+Israel,ISR,"Jun 6, 2020",650392
+Israel,ISR,"Jun 7, 2020",665489
+Israel,ISR,"Jun 8, 2020",680053
+Israel,ISR,"Jun 9, 2020",695104
+Israel,ISR,"Jun 10, 2020",713583
+Israel,ISR,"Jun 11, 2020",729394
+Israel,ISR,"Jun 12, 2020",742485
+Israel,ISR,"Jun 13, 2020",749464
+Israel,ISR,"Jun 14, 2020",758302
+Israel,ISR,"Jun 15, 2020",772699
+Israel,ISR,"Jun 16, 2020",788743
+Israel,ISR,"Jun 17, 2020",804739
 Italy,ITA,"Feb 24, 2020",4324
 Italy,ITA,"Feb 25, 2020",8623
 Italy,ITA,"Feb 26, 2020",9587
@@ -3230,9 +3164,6 @@ Italy,ITA,"Jun 22, 2020",5013342
 Italy,ITA,"Jun 23, 2020",5053827
 Italy,ITA,"Jun 24, 2020",5107093
 Italy,ITA,"Jun 25, 2020",5163154
-Italy,ITA,"Jun 26, 2020",5215922
-Italy,ITA,"Jun 27, 2020",5277273
-Italy,ITA,"Jun 28, 2020",5314619
 "Italy, people tested",,"Apr 19, 2020",935310
 "Italy, people tested",,"Apr 20, 2020",943151
 "Italy, people tested",,"Apr 21, 2020",971246
@@ -3301,9 +3232,6 @@ Italy,ITA,"Jun 28, 2020",5314619
 "Italy, people tested",,"Jun 23, 2020",3081127
 "Italy, people tested",,"Jun 24, 2020",3111364
 "Italy, people tested",,"Jun 25, 2020",3140785
-"Italy, people tested",,"Jun 26, 2020",3169116
-"Italy, people tested",,"Jun 27, 2020",3198837
-"Italy, people tested",,"Jun 28, 2020",3220020
 Japan,JPN,"Feb 10, 2020",938
 Japan,JPN,"Feb 12, 2020",954
 Japan,JPN,"Feb 13, 2020",964
@@ -3437,8 +3365,6 @@ Japan,JPN,"Jun 22, 2020",417951
 Japan,JPN,"Jun 23, 2020",424767
 Japan,JPN,"Jun 24, 2020",429481
 Japan,JPN,"Jun 25, 2020",435495
-Japan,JPN,"Jun 26, 2020",440739
-Japan,JPN,"Jun 27, 2020",446589
 "Japan, tests performed",,"Feb 22, 2020",5266
 "Japan, tests performed",,"Feb 29, 2020",12924
 "Japan, tests performed",,"Mar 7, 2020",23540
@@ -3446,34 +3372,38 @@ Japan,JPN,"Jun 27, 2020",446589
 "Japan, tests performed",,"Mar 21, 2020",43638
 "Japan, tests performed",,"Mar 28, 2020",57128
 "Japan, tests performed",,"Apr 4, 2020",87438
-"Japan, tests performed",,"Apr 11, 2020",136442
-"Japan, tests performed",,"Apr 18, 2020",193739
-"Japan, tests performed",,"Apr 25, 2020",252158
-"Japan, tests performed",,"May 2, 2020",308259
-"Japan, tests performed",,"May 9, 2020",354869
-"Japan, tests performed",,"May 16, 2020",407231
-"Japan, tests performed",,"May 23, 2020",447701
-"Japan, tests performed",,"May 30, 2020",484814
-"Japan, tests performed",,"Jun 6, 2020",528834
-"Japan, tests performed",,"Jun 7, 2020",531383
-"Japan, tests performed",,"Jun 8, 2020",537631
-"Japan, tests performed",,"Jun 9, 2020",546053
-"Japan, tests performed",,"Jun 10, 2020",553703
-"Japan, tests performed",,"Jun 11, 2020",560943
-"Japan, tests performed",,"Jun 12, 2020",568843
-"Japan, tests performed",,"Jun 13, 2020",575823
-"Japan, tests performed",,"Jun 14, 2020",578338
-"Japan, tests performed",,"Jun 15, 2020",585078
-"Japan, tests performed",,"Jun 16, 2020",592842
-"Japan, tests performed",,"Jun 17, 2020",600463
-"Japan, tests performed",,"Jun 18, 2020",607817
-"Japan, tests performed",,"Jun 19, 2020",615252
-"Japan, tests performed",,"Jun 20, 2020",621520
-"Japan, tests performed",,"Jun 21, 2020",625209
-"Japan, tests performed",,"Jun 22, 2020",633050
-"Japan, tests performed",,"Jun 23, 2020",640023
-"Japan, tests performed",,"Jun 24, 2020",648058
-"Japan, tests performed",,"Jun 25, 2020",653555
+"Japan, tests performed",,"Apr 11, 2020",136396
+"Japan, tests performed",,"Apr 18, 2020",193683
+"Japan, tests performed",,"Apr 25, 2020",252078
+"Japan, tests performed",,"May 2, 2020",308159
+"Japan, tests performed",,"May 9, 2020",354745
+"Japan, tests performed",,"May 16, 2020",407084
+"Japan, tests performed",,"May 23, 2020",447509
+"Japan, tests performed",,"May 30, 2020",484558
+"Japan, tests performed",,"May 31, 2020",487101
+"Japan, tests performed",,"Jun 1, 2020",492595
+"Japan, tests performed",,"Jun 2, 2020",499584
+"Japan, tests performed",,"Jun 3, 2020",506846
+"Japan, tests performed",,"Jun 4, 2020",513891
+"Japan, tests performed",,"Jun 5, 2020",521846
+"Japan, tests performed",,"Jun 6, 2020",528465
+"Japan, tests performed",,"Jun 7, 2020",531014
+"Japan, tests performed",,"Jun 8, 2020",537216
+"Japan, tests performed",,"Jun 9, 2020",545621
+"Japan, tests performed",,"Jun 10, 2020",553260
+"Japan, tests performed",,"Jun 11, 2020",560477
+"Japan, tests performed",,"Jun 12, 2020",568358
+"Japan, tests performed",,"Jun 13, 2020",575336
+"Japan, tests performed",,"Jun 14, 2020",577851
+"Japan, tests performed",,"Jun 15, 2020",584547
+"Japan, tests performed",,"Jun 16, 2020",592287
+"Japan, tests performed",,"Jun 17, 2020",599886
+"Japan, tests performed",,"Jun 18, 2020",607107
+"Japan, tests performed",,"Jun 19, 2020",614443
+"Japan, tests performed",,"Jun 20, 2020",620591
+"Japan, tests performed",,"Jun 21, 2020",623100
+"Japan, tests performed",,"Jun 22, 2020",627483
+"Japan, tests performed",,"Jun 23, 2020",632744
 Kazakhstan,KAZ,"Mar 13, 2020",126
 Kazakhstan,KAZ,"Mar 14, 2020",445
 Kazakhstan,KAZ,"Mar 15, 2020",652
@@ -3661,10 +3591,6 @@ Kenya,KEN,"Jun 21, 2020",140012
 Kenya,KEN,"Jun 22, 2020",142366
 Kenya,KEN,"Jun 23, 2020",146537
 Kenya,KEN,"Jun 24, 2020",151396
-Kenya,KEN,"Jun 25, 2020",155314
-Kenya,KEN,"Jun 26, 2020",158404
-Kenya,KEN,"Jun 27, 2020",162478
-Kenya,KEN,"Jun 28, 2020",165196
 Kuwait,KWT,"May 13, 2020",227000
 Kuwait,KWT,"May 14, 2020",231930
 Kuwait,KWT,"May 15, 2020",236004
@@ -3828,8 +3754,6 @@ Latvia,LVA,"Jun 22, 2020",139024
 Latvia,LVA,"Jun 23, 2020",140437
 Latvia,LVA,"Jun 24, 2020",141713
 Latvia,LVA,"Jun 25, 2020",142794
-Latvia,LVA,"Jun 26, 2020",145086
-Latvia,LVA,"Jun 27, 2020",146874
 Lithuania,LTU,"Feb 28, 2020",76
 Lithuania,LTU,"Mar 4, 2020",226
 Lithuania,LTU,"Mar 13, 2020",366
@@ -3920,8 +3844,6 @@ Lithuania,LTU,"Jun 22, 2020",394465
 Lithuania,LTU,"Jun 23, 2020",398417
 Lithuania,LTU,"Jun 24, 2020",403841
 Lithuania,LTU,"Jun 25, 2020",406557
-Lithuania,LTU,"Jun 26, 2020",410867
-Lithuania,LTU,"Jun 27, 2020",414792
 Luxembourg,LUX,"Apr 1, 2020",18690
 Luxembourg,LUX,"Apr 3, 2020",21463
 Luxembourg,LUX,"Apr 4, 2020",22793
@@ -4002,9 +3924,6 @@ Luxembourg,LUX,"Jun 22, 2020",149368
 Luxembourg,LUX,"Jun 23, 2020",154881
 Luxembourg,LUX,"Jun 24, 2020",156089
 Luxembourg,LUX,"Jun 25, 2020",163090
-Luxembourg,LUX,"Jun 26, 2020",168786
-Luxembourg,LUX,"Jun 27, 2020",172292
-Luxembourg,LUX,"Jun 28, 2020",177217
 Malaysia,MYS,"Feb 14, 2020",653
 Malaysia,MYS,"Feb 16, 2020",656
 Malaysia,MYS,"Feb 17, 2020",757
@@ -4112,8 +4031,6 @@ Malaysia,MYS,"Jun 22, 2020",686905
 Malaysia,MYS,"Jun 23, 2020",693603
 Malaysia,MYS,"Jun 24, 2020",704336
 Malaysia,MYS,"Jun 25, 2020",716178
-Malaysia,MYS,"Jun 26, 2020",729116
-Malaysia,MYS,"Jun 27, 2020",739458
 Maldives,MDV,"Mar 16, 2020",221
 Maldives,MDV,"Mar 17, 2020",254
 Maldives,MDV,"Mar 18, 2020",463
@@ -4235,144 +4152,142 @@ Mexico,MEX,"Feb 3, 2020",1052
 Mexico,MEX,"Feb 4, 2020",1103
 Mexico,MEX,"Feb 5, 2020",1149
 Mexico,MEX,"Feb 6, 2020",1194
-Mexico,MEX,"Feb 7, 2020",1222
-Mexico,MEX,"Feb 8, 2020",1230
-Mexico,MEX,"Feb 9, 2020",1246
-Mexico,MEX,"Feb 10, 2020",1317
-Mexico,MEX,"Feb 11, 2020",1366
-Mexico,MEX,"Feb 12, 2020",1407
-Mexico,MEX,"Feb 13, 2020",1443
-Mexico,MEX,"Feb 14, 2020",1475
-Mexico,MEX,"Feb 15, 2020",1484
-Mexico,MEX,"Feb 16, 2020",1501
-Mexico,MEX,"Feb 17, 2020",1529
-Mexico,MEX,"Feb 18, 2020",1559
-Mexico,MEX,"Feb 19, 2020",1589
-Mexico,MEX,"Feb 20, 2020",1612
-Mexico,MEX,"Feb 21, 2020",1638
-Mexico,MEX,"Feb 22, 2020",1650
-Mexico,MEX,"Feb 23, 2020",1659
-Mexico,MEX,"Feb 24, 2020",1691
-Mexico,MEX,"Feb 25, 2020",1723
-Mexico,MEX,"Feb 26, 2020",1762
-Mexico,MEX,"Feb 27, 2020",1807
-Mexico,MEX,"Feb 28, 2020",1872
-Mexico,MEX,"Feb 29, 2020",1897
-Mexico,MEX,"Mar 1, 2020",1924
-Mexico,MEX,"Mar 2, 2020",2003
-Mexico,MEX,"Mar 3, 2020",2078
-Mexico,MEX,"Mar 4, 2020",2147
-Mexico,MEX,"Mar 5, 2020",2213
-Mexico,MEX,"Mar 6, 2020",2266
-Mexico,MEX,"Mar 7, 2020",2291
-Mexico,MEX,"Mar 8, 2020",2326
-Mexico,MEX,"Mar 9, 2020",2405
-Mexico,MEX,"Mar 10, 2020",2512
-Mexico,MEX,"Mar 11, 2020",2647
-Mexico,MEX,"Mar 12, 2020",2851
-Mexico,MEX,"Mar 13, 2020",3134
-Mexico,MEX,"Mar 14, 2020",3296
-Mexico,MEX,"Mar 15, 2020",3467
-Mexico,MEX,"Mar 16, 2020",3732
-Mexico,MEX,"Mar 17, 2020",4187
-Mexico,MEX,"Mar 18, 2020",4692
-Mexico,MEX,"Mar 19, 2020",5280
-Mexico,MEX,"Mar 20, 2020",5851
-Mexico,MEX,"Mar 21, 2020",6248
-Mexico,MEX,"Mar 22, 2020",6561
-Mexico,MEX,"Mar 23, 2020",7397
-Mexico,MEX,"Mar 24, 2020",8526
-Mexico,MEX,"Mar 25, 2020",9760
-Mexico,MEX,"Mar 26, 2020",10983
-Mexico,MEX,"Mar 27, 2020",12442
-Mexico,MEX,"Mar 28, 2020",13209
-Mexico,MEX,"Mar 29, 2020",13951
-Mexico,MEX,"Mar 30, 2020",15618
-Mexico,MEX,"Mar 31, 2020",17107
-Mexico,MEX,"Apr 1, 2020",18686
-Mexico,MEX,"Apr 2, 2020",20372
-Mexico,MEX,"Apr 3, 2020",22092
-Mexico,MEX,"Apr 4, 2020",23164
-Mexico,MEX,"Apr 5, 2020",23967
-Mexico,MEX,"Apr 6, 2020",25951
-Mexico,MEX,"Apr 7, 2020",27925
-Mexico,MEX,"Apr 8, 2020",30087
-Mexico,MEX,"Apr 9, 2020",31714
-Mexico,MEX,"Apr 10, 2020",33631
-Mexico,MEX,"Apr 11, 2020",35004
-Mexico,MEX,"Apr 12, 2020",36191
-Mexico,MEX,"Apr 13, 2020",38978
-Mexico,MEX,"Apr 14, 2020",41844
-Mexico,MEX,"Apr 15, 2020",44603
-Mexico,MEX,"Apr 16, 2020",47257
-Mexico,MEX,"Apr 17, 2020",50246
-Mexico,MEX,"Apr 18, 2020",51849
-Mexico,MEX,"Apr 19, 2020",53314
-Mexico,MEX,"Apr 20, 2020",56854
-Mexico,MEX,"Apr 21, 2020",60124
-Mexico,MEX,"Apr 22, 2020",63278
-Mexico,MEX,"Apr 23, 2020",66721
-Mexico,MEX,"Apr 24, 2020",70597
-Mexico,MEX,"Apr 25, 2020",72744
-Mexico,MEX,"Apr 26, 2020",74629
-Mexico,MEX,"Apr 27, 2020",78832
-Mexico,MEX,"Apr 28, 2020",83139
-Mexico,MEX,"Apr 29, 2020",87781
-Mexico,MEX,"Apr 30, 2020",92773
-Mexico,MEX,"May 1, 2020",95784
-Mexico,MEX,"May 2, 2020",98538
-Mexico,MEX,"May 3, 2020",101232
-Mexico,MEX,"May 4, 2020",107047
-Mexico,MEX,"May 5, 2020",111938
-Mexico,MEX,"May 6, 2020",117498
-Mexico,MEX,"May 7, 2020",123153
-Mexico,MEX,"May 8, 2020",129162
-Mexico,MEX,"May 9, 2020",132522
-Mexico,MEX,"May 10, 2020",135173
-Mexico,MEX,"May 11, 2020",141836
-Mexico,MEX,"May 12, 2020",148633
-Mexico,MEX,"May 13, 2020",155410
-Mexico,MEX,"May 14, 2020",162419
-Mexico,MEX,"May 15, 2020",169913
-Mexico,MEX,"May 16, 2020",173985
-Mexico,MEX,"May 17, 2020",176756
-Mexico,MEX,"May 18, 2020",184994
-Mexico,MEX,"May 19, 2020",192385
-Mexico,MEX,"May 20, 2020",200373
-Mexico,MEX,"May 21, 2020",208180
-Mexico,MEX,"May 22, 2020",216384
-Mexico,MEX,"May 23, 2020",220517
-Mexico,MEX,"May 24, 2020",223866
-Mexico,MEX,"May 25, 2020",232956
-Mexico,MEX,"May 26, 2020",241651
-Mexico,MEX,"May 27, 2020",250682
-Mexico,MEX,"May 28, 2020",259255
-Mexico,MEX,"May 29, 2020",268128
-Mexico,MEX,"May 30, 2020",273173
-Mexico,MEX,"May 31, 2020",276848
-Mexico,MEX,"Jun 1, 2020",286968
-Mexico,MEX,"Jun 2, 2020",296400
-Mexico,MEX,"Jun 3, 2020",306366
-Mexico,MEX,"Jun 4, 2020",316121
-Mexico,MEX,"Jun 5, 2020",326323
-Mexico,MEX,"Jun 6, 2020",331518
-Mexico,MEX,"Jun 7, 2020",335372
-Mexico,MEX,"Jun 8, 2020",346484
-Mexico,MEX,"Jun 9, 2020",357443
-Mexico,MEX,"Jun 10, 2020",368444
-Mexico,MEX,"Jun 11, 2020",379139
-Mexico,MEX,"Jun 12, 2020",390321
-Mexico,MEX,"Jun 13, 2020",395465
-Mexico,MEX,"Jun 14, 2020",399625
-Mexico,MEX,"Jun 15, 2020",411426
-Mexico,MEX,"Jun 16, 2020",422882
-Mexico,MEX,"Jun 17, 2020",433743
-Mexico,MEX,"Jun 18, 2020",444087
-Mexico,MEX,"Jun 19, 2020",453983
-Mexico,MEX,"Jun 20, 2020",458525
-Mexico,MEX,"Jun 21, 2020",461383
-Mexico,MEX,"Jun 22, 2020",470111
-Mexico,MEX,"Jun 23, 2020",477363
+Mexico,MEX,"Feb 7, 2020",1223
+Mexico,MEX,"Feb 8, 2020",1231
+Mexico,MEX,"Feb 9, 2020",1247
+Mexico,MEX,"Feb 10, 2020",1318
+Mexico,MEX,"Feb 11, 2020",1367
+Mexico,MEX,"Feb 12, 2020",1408
+Mexico,MEX,"Feb 13, 2020",1444
+Mexico,MEX,"Feb 14, 2020",1476
+Mexico,MEX,"Feb 15, 2020",1485
+Mexico,MEX,"Feb 16, 2020",1502
+Mexico,MEX,"Feb 17, 2020",1530
+Mexico,MEX,"Feb 18, 2020",1560
+Mexico,MEX,"Feb 19, 2020",1590
+Mexico,MEX,"Feb 20, 2020",1613
+Mexico,MEX,"Feb 21, 2020",1639
+Mexico,MEX,"Feb 22, 2020",1651
+Mexico,MEX,"Feb 23, 2020",1660
+Mexico,MEX,"Feb 24, 2020",1692
+Mexico,MEX,"Feb 25, 2020",1724
+Mexico,MEX,"Feb 26, 2020",1763
+Mexico,MEX,"Feb 27, 2020",1808
+Mexico,MEX,"Feb 28, 2020",1873
+Mexico,MEX,"Feb 29, 2020",1898
+Mexico,MEX,"Mar 1, 2020",1925
+Mexico,MEX,"Mar 2, 2020",2004
+Mexico,MEX,"Mar 3, 2020",2079
+Mexico,MEX,"Mar 4, 2020",2148
+Mexico,MEX,"Mar 5, 2020",2214
+Mexico,MEX,"Mar 6, 2020",2267
+Mexico,MEX,"Mar 7, 2020",2292
+Mexico,MEX,"Mar 8, 2020",2327
+Mexico,MEX,"Mar 9, 2020",2406
+Mexico,MEX,"Mar 10, 2020",2513
+Mexico,MEX,"Mar 11, 2020",2648
+Mexico,MEX,"Mar 12, 2020",2852
+Mexico,MEX,"Mar 13, 2020",3135
+Mexico,MEX,"Mar 14, 2020",3297
+Mexico,MEX,"Mar 15, 2020",3468
+Mexico,MEX,"Mar 16, 2020",3733
+Mexico,MEX,"Mar 17, 2020",4188
+Mexico,MEX,"Mar 18, 2020",4693
+Mexico,MEX,"Mar 19, 2020",5283
+Mexico,MEX,"Mar 20, 2020",5855
+Mexico,MEX,"Mar 21, 2020",6252
+Mexico,MEX,"Mar 22, 2020",6565
+Mexico,MEX,"Mar 23, 2020",7402
+Mexico,MEX,"Mar 24, 2020",8533
+Mexico,MEX,"Mar 25, 2020",9767
+Mexico,MEX,"Mar 26, 2020",10990
+Mexico,MEX,"Mar 27, 2020",12454
+Mexico,MEX,"Mar 28, 2020",13222
+Mexico,MEX,"Mar 29, 2020",13964
+Mexico,MEX,"Mar 30, 2020",15632
+Mexico,MEX,"Mar 31, 2020",17123
+Mexico,MEX,"Apr 1, 2020",18705
+Mexico,MEX,"Apr 2, 2020",20394
+Mexico,MEX,"Apr 3, 2020",22119
+Mexico,MEX,"Apr 4, 2020",23191
+Mexico,MEX,"Apr 5, 2020",23997
+Mexico,MEX,"Apr 6, 2020",25984
+Mexico,MEX,"Apr 7, 2020",27962
+Mexico,MEX,"Apr 8, 2020",30126
+Mexico,MEX,"Apr 9, 2020",31756
+Mexico,MEX,"Apr 10, 2020",33675
+Mexico,MEX,"Apr 11, 2020",35047
+Mexico,MEX,"Apr 12, 2020",36235
+Mexico,MEX,"Apr 13, 2020",39023
+Mexico,MEX,"Apr 14, 2020",41894
+Mexico,MEX,"Apr 15, 2020",44652
+Mexico,MEX,"Apr 16, 2020",47305
+Mexico,MEX,"Apr 17, 2020",50295
+Mexico,MEX,"Apr 18, 2020",51899
+Mexico,MEX,"Apr 19, 2020",53366
+Mexico,MEX,"Apr 20, 2020",56906
+Mexico,MEX,"Apr 21, 2020",60178
+Mexico,MEX,"Apr 22, 2020",63332
+Mexico,MEX,"Apr 23, 2020",66778
+Mexico,MEX,"Apr 24, 2020",70658
+Mexico,MEX,"Apr 25, 2020",72808
+Mexico,MEX,"Apr 26, 2020",74697
+Mexico,MEX,"Apr 27, 2020",78905
+Mexico,MEX,"Apr 28, 2020",83217
+Mexico,MEX,"Apr 29, 2020",87864
+Mexico,MEX,"Apr 30, 2020",92869
+Mexico,MEX,"May 1, 2020",95881
+Mexico,MEX,"May 2, 2020",98639
+Mexico,MEX,"May 3, 2020",101337
+Mexico,MEX,"May 4, 2020",107153
+Mexico,MEX,"May 5, 2020",112050
+Mexico,MEX,"May 6, 2020",117611
+Mexico,MEX,"May 7, 2020",123262
+Mexico,MEX,"May 8, 2020",129271
+Mexico,MEX,"May 9, 2020",132632
+Mexico,MEX,"May 10, 2020",135287
+Mexico,MEX,"May 11, 2020",141954
+Mexico,MEX,"May 12, 2020",148753
+Mexico,MEX,"May 13, 2020",155520
+Mexico,MEX,"May 14, 2020",162526
+Mexico,MEX,"May 15, 2020",170010
+Mexico,MEX,"May 16, 2020",174077
+Mexico,MEX,"May 17, 2020",176837
+Mexico,MEX,"May 18, 2020",185052
+Mexico,MEX,"May 19, 2020",192428
+Mexico,MEX,"May 20, 2020",200397
+Mexico,MEX,"May 21, 2020",208157
+Mexico,MEX,"May 22, 2020",216289
+Mexico,MEX,"May 23, 2020",220360
+Mexico,MEX,"May 24, 2020",223705
+Mexico,MEX,"May 25, 2020",232762
+Mexico,MEX,"May 26, 2020",241447
+Mexico,MEX,"May 27, 2020",250481
+Mexico,MEX,"May 28, 2020",259045
+Mexico,MEX,"May 29, 2020",267894
+Mexico,MEX,"May 30, 2020",272925
+Mexico,MEX,"May 31, 2020",276571
+Mexico,MEX,"Jun 1, 2020",286623
+Mexico,MEX,"Jun 2, 2020",296008
+Mexico,MEX,"Jun 3, 2020",305969
+Mexico,MEX,"Jun 4, 2020",315698
+Mexico,MEX,"Jun 5, 2020",325881
+Mexico,MEX,"Jun 6, 2020",331051
+Mexico,MEX,"Jun 7, 2020",334893
+Mexico,MEX,"Jun 8, 2020",345899
+Mexico,MEX,"Jun 9, 2020",356794
+Mexico,MEX,"Jun 10, 2020",367744
+Mexico,MEX,"Jun 11, 2020",378358
+Mexico,MEX,"Jun 12, 2020",389437
+Mexico,MEX,"Jun 13, 2020",394534
+Mexico,MEX,"Jun 14, 2020",398635
+Mexico,MEX,"Jun 15, 2020",410195
+Mexico,MEX,"Jun 16, 2020",421327
+Mexico,MEX,"Jun 17, 2020",431711
+Mexico,MEX,"Jun 18, 2020",441196
+Mexico,MEX,"Jun 19, 2020",450008
+Mexico,MEX,"Jun 20, 2020",453897
+Mexico,MEX,"Jun 21, 2020",456138
 Morocco,MAR,"Feb 7, 2020",9
 Morocco,MAR,"Feb 15, 2020",10
 Morocco,MAR,"Feb 19, 2020",11
@@ -4574,11 +4489,6 @@ Myanmar,MMR,"Jun 19, 2020",60128
 Myanmar,MMR,"Jun 20, 2020",62070
 Myanmar,MMR,"Jun 21, 2020",63418
 Myanmar,MMR,"Jun 22, 2020",64532
-Myanmar,MMR,"Jun 23, 2020",66353
-Myanmar,MMR,"Jun 24, 2020",68404
-Myanmar,MMR,"Jun 25, 2020",70266
-Myanmar,MMR,"Jun 26, 2020",71692
-Myanmar,MMR,"Jun 27, 2020",73278
 Nepal,NPL,"Jan 28, 2020",3
 Nepal,NPL,"Jan 29, 2020",4
 Nepal,NPL,"Jan 30, 2020",5
@@ -4708,11 +4618,9 @@ Netherlands,NLD,"May 24, 2020",329068
 Netherlands,NLD,"May 31, 2020",362831
 Netherlands,NLD,"Jun 7, 2020",421583
 Netherlands,NLD,"Jun 14, 2020",484224
-Netherlands,NLD,"Jun 21, 2020",547225
-Netherlands,NLD,"Jun 22, 2020",555052
-Netherlands,NLD,"Jun 23, 2020",564524
-Netherlands,NLD,"Jun 24, 2020",574242
-Netherlands,NLD,"Jun 25, 2020",581445
+Netherlands,NLD,"Jun 21, 2020",546637
+Netherlands,NLD,"Jun 22, 2020",554404
+Netherlands,NLD,"Jun 23, 2020",561863
 New Zealand,NZL,"Mar 9, 2020",312
 New Zealand,NZL,"Mar 10, 2020",401
 New Zealand,NZL,"Mar 11, 2020",484
@@ -4822,8 +4730,6 @@ New Zealand,NZL,"Jun 22, 2020",348822
 New Zealand,NZL,"Jun 23, 2020",357996
 New Zealand,NZL,"Jun 24, 2020",368432
 New Zealand,NZL,"Jun 25, 2020",378257
-New Zealand,NZL,"Jun 26, 2020",387435
-New Zealand,NZL,"Jun 27, 2020",392756
 Nigeria,NGA,"Apr 8, 2020",5000
 Nigeria,NGA,"Apr 16, 2020",6649
 Nigeria,NGA,"Apr 17, 2020",7153
@@ -4879,8 +4785,6 @@ Nigeria,NGA,"Jun 22, 2020",115760
 Nigeria,NGA,"Jun 23, 2020",117569
 Nigeria,NGA,"Jun 24, 2020",120108
 Nigeria,NGA,"Jun 25, 2020",122155
-Nigeria,NGA,"Jun 27, 2020",127158
-Nigeria,NGA,"Jun 28, 2020",130164
 Norway,NOR,"Feb 24, 2020",12
 Norway,NOR,"Feb 25, 2020",74
 Norway,NOR,"Feb 26, 2020",222
@@ -4941,44 +4845,44 @@ Norway,NOR,"Apr 20, 2020",126764
 Norway,NOR,"Apr 21, 2020",130021
 Norway,NOR,"Apr 22, 2020",132999
 Norway,NOR,"Apr 23, 2020",135635
-Norway,NOR,"Apr 24, 2020",138547
-Norway,NOR,"Apr 25, 2020",139532
-Norway,NOR,"Apr 26, 2020",140383
-Norway,NOR,"Apr 27, 2020",144023
-Norway,NOR,"Apr 28, 2020",147672
-Norway,NOR,"Apr 29, 2020",151146
-Norway,NOR,"Apr 30, 2020",155128
-Norway,NOR,"May 1, 2020",156444
-Norway,NOR,"May 2, 2020",157816
-Norway,NOR,"May 3, 2020",158921
-Norway,NOR,"May 4, 2020",163158
-Norway,NOR,"May 5, 2020",167052
-Norway,NOR,"May 6, 2020",170874
-Norway,NOR,"May 7, 2020",174260
-Norway,NOR,"May 8, 2020",177661
-Norway,NOR,"May 9, 2020",178823
-Norway,NOR,"May 10, 2020",179672
-Norway,NOR,"May 11, 2020",183617
-Norway,NOR,"May 12, 2020",187443
-Norway,NOR,"May 13, 2020",191107
-Norway,NOR,"May 14, 2020",194853
-Norway,NOR,"May 15, 2020",198579
-Norway,NOR,"May 16, 2020",199711
-Norway,NOR,"May 17, 2020",200270
-Norway,NOR,"May 18, 2020",204204
-Norway,NOR,"May 19, 2020",208027
-Norway,NOR,"May 20, 2020",211555
-Norway,NOR,"May 21, 2020",212531
-Norway,NOR,"May 22, 2020",215470
-Norway,NOR,"May 23, 2020",216339
-Norway,NOR,"May 24, 2020",217077
-Norway,NOR,"May 25, 2020",220633
-Norway,NOR,"May 26, 2020",223627
-Norway,NOR,"May 27, 2020",226441
-Norway,NOR,"May 28, 2020",228899
-Norway,NOR,"May 29, 2020",231139
-Norway,NOR,"May 30, 2020",231808
-Norway,NOR,"May 31, 2020",232317
+Norway,NOR,"Apr 24, 2020",138546
+Norway,NOR,"Apr 25, 2020",139531
+Norway,NOR,"Apr 26, 2020",140382
+Norway,NOR,"Apr 27, 2020",144022
+Norway,NOR,"Apr 28, 2020",147671
+Norway,NOR,"Apr 29, 2020",151145
+Norway,NOR,"Apr 30, 2020",155127
+Norway,NOR,"May 1, 2020",156443
+Norway,NOR,"May 2, 2020",157815
+Norway,NOR,"May 3, 2020",158920
+Norway,NOR,"May 4, 2020",163157
+Norway,NOR,"May 5, 2020",167051
+Norway,NOR,"May 6, 2020",170873
+Norway,NOR,"May 7, 2020",174259
+Norway,NOR,"May 8, 2020",177660
+Norway,NOR,"May 9, 2020",178822
+Norway,NOR,"May 10, 2020",179671
+Norway,NOR,"May 11, 2020",183616
+Norway,NOR,"May 12, 2020",187442
+Norway,NOR,"May 13, 2020",191106
+Norway,NOR,"May 14, 2020",194852
+Norway,NOR,"May 15, 2020",198578
+Norway,NOR,"May 16, 2020",199710
+Norway,NOR,"May 17, 2020",200269
+Norway,NOR,"May 18, 2020",204203
+Norway,NOR,"May 19, 2020",208026
+Norway,NOR,"May 20, 2020",211554
+Norway,NOR,"May 21, 2020",212530
+Norway,NOR,"May 22, 2020",215469
+Norway,NOR,"May 23, 2020",216338
+Norway,NOR,"May 24, 2020",217076
+Norway,NOR,"May 25, 2020",220632
+Norway,NOR,"May 26, 2020",223626
+Norway,NOR,"May 27, 2020",226440
+Norway,NOR,"May 28, 2020",228898
+Norway,NOR,"May 29, 2020",231138
+Norway,NOR,"May 30, 2020",231807
+Norway,NOR,"May 31, 2020",232316
 Norway,NOR,"Jun 1, 2020",232920
 Norway,NOR,"Jun 2, 2020",235709
 Norway,NOR,"Jun 3, 2020",238196
@@ -4990,19 +4894,18 @@ Norway,NOR,"Jun 8, 2020",250045
 Norway,NOR,"Jun 9, 2020",254851
 Norway,NOR,"Jun 10, 2020",258912
 Norway,NOR,"Jun 11, 2020",263278
-Norway,NOR,"Jun 12, 2020",267403
-Norway,NOR,"Jun 13, 2020",268461
-Norway,NOR,"Jun 14, 2020",269433
-Norway,NOR,"Jun 15, 2020",274618
-Norway,NOR,"Jun 16, 2020",279515
-Norway,NOR,"Jun 17, 2020",283986
-Norway,NOR,"Jun 18, 2020",287998
-Norway,NOR,"Jun 19, 2020",291312
-Norway,NOR,"Jun 20, 2020",292191
-Norway,NOR,"Jun 21, 2020",293040
-Norway,NOR,"Jun 22, 2020",297440
-Norway,NOR,"Jun 23, 2020",301450
-Norway,NOR,"Jun 24, 2020",305073
+Norway,NOR,"Jun 12, 2020",267402
+Norway,NOR,"Jun 13, 2020",268460
+Norway,NOR,"Jun 14, 2020",269432
+Norway,NOR,"Jun 15, 2020",274617
+Norway,NOR,"Jun 16, 2020",279513
+Norway,NOR,"Jun 17, 2020",283981
+Norway,NOR,"Jun 18, 2020",287993
+Norway,NOR,"Jun 19, 2020",291306
+Norway,NOR,"Jun 20, 2020",292183
+Norway,NOR,"Jun 21, 2020",293030
+Norway,NOR,"Jun 22, 2020",297352
+Norway,NOR,"Jun 23, 2020",300722
 Pakistan,PAK,"Mar 11, 2020",471
 Pakistan,PAK,"Mar 12, 2020",531
 Pakistan,PAK,"Mar 13, 2020",609
@@ -5110,8 +5013,6 @@ Pakistan,PAK,"Jun 23, 2020",1126761
 Pakistan,PAK,"Jun 24, 2020",1150141
 Pakistan,PAK,"Jun 25, 2020",1171976
 Pakistan,PAK,"Jun 26, 2020",1193017
-Pakistan,PAK,"Jun 27, 2020",1214140
-Pakistan,PAK,"Jun 28, 2020",1239153
 Panama,PAN,"Mar 9, 2020",107
 Panama,PAN,"Mar 10, 2020",138
 Panama,PAN,"Mar 11, 2020",180
@@ -5327,9 +5228,6 @@ Paraguay,PRY,"Jun 21, 2020",56992
 Paraguay,PRY,"Jun 22, 2020",57895
 Paraguay,PRY,"Jun 23, 2020",59454
 Paraguay,PRY,"Jun 24, 2020",60811
-Paraguay,PRY,"Jun 25, 2020",62384
-Paraguay,PRY,"Jun 26, 2020",63974
-Paraguay,PRY,"Jun 27, 2020",65605
 Peru,PER,"Mar 4, 2020",107
 Peru,PER,"Mar 6, 2020",155
 Peru,PER,"Mar 7, 2020",219
@@ -5425,8 +5323,6 @@ Peru,PER,"Jun 20, 2020",211997
 Peru,PER,"Jun 22, 2020",218215
 Peru,PER,"Jun 24, 2020",222240
 Peru,PER,"Jun 26, 2020",232730
-Peru,PER,"Jun 27, 2020",237888
-Peru,PER,"Jun 28, 2020",242809
 Philippines,PHL,"Apr 3, 2020",20276
 Philippines,PHL,"Apr 4, 2020",22683
 Philippines,PHL,"Apr 5, 2020",23027
@@ -5509,8 +5405,6 @@ Philippines,PHL,"Jun 20, 2020",547373
 Philippines,PHL,"Jun 21, 2020",558163
 Philippines,PHL,"Jun 22, 2020",568633
 Philippines,PHL,"Jun 23, 2020",580560
-Philippines,PHL,"Jun 24, 2020",596058
-Philippines,PHL,"Jun 25, 2020",610052
 Poland,POL,"Mar 6, 2020",855
 Poland,POL,"Mar 8, 2020",1154
 Poland,POL,"Mar 9, 2020",1384
@@ -5677,8 +5571,6 @@ Poland,POL,"Jun 22, 2020",1356035
 "Poland, people tested",,"Jun 23, 2020",1237750
 "Poland, people tested",,"Jun 24, 2020",1257001
 "Poland, people tested",,"Jun 25, 2020",1278454
-"Poland, people tested",,"Jun 26, 2020",1296790
-"Poland, people tested",,"Jun 27, 2020",1315933
 Portugal,PRT,"Mar 1, 2020",25
 Portugal,PRT,"Mar 2, 2020",70
 Portugal,PRT,"Mar 3, 2020",131
@@ -5891,8 +5783,6 @@ Qatar,QAT,"Jun 22, 2020",324570
 Qatar,QAT,"Jun 23, 2020",328941
 Qatar,QAT,"Jun 24, 2020",333172
 Qatar,QAT,"Jun 25, 2020",337496
-Qatar,QAT,"Jun 26, 2020",341914
-Qatar,QAT,"Jun 27, 2020",345691
 Romania,ROU,"Mar 12, 2020",1921
 Romania,ROU,"Mar 13, 2020",2545
 Romania,ROU,"Mar 14, 2020",2929
@@ -5996,9 +5886,6 @@ Romania,ROU,"Jun 21, 2020",626330
 Romania,ROU,"Jun 22, 2020",630374
 Romania,ROU,"Jun 23, 2020",639322
 Romania,ROU,"Jun 25, 2020",663558
-Romania,ROU,"Jun 26, 2020",675382
-Romania,ROU,"Jun 27, 2020",677259
-Romania,ROU,"Jun 28, 2020",694909
 Russia,RUS,"Mar 5, 2020",46414
 Russia,RUS,"Mar 6, 2020",51366
 Russia,RUS,"Mar 7, 2020",55688
@@ -6109,9 +5996,6 @@ Russia,RUS,"Jun 22, 2020",17289691
 Russia,RUS,"Jun 23, 2020",17522752
 Russia,RUS,"Jun 24, 2020",17803955
 Russia,RUS,"Jun 25, 2020",18115830
-Russia,RUS,"Jun 26, 2020",18402719
-Russia,RUS,"Jun 27, 2020",18707946
-Russia,RUS,"Jun 28, 2020",19044954
 Rwanda,RWA,"Apr 6, 2020",5701
 Rwanda,RWA,"Apr 7, 2020",6507
 Rwanda,RWA,"Apr 8, 2020",7279
@@ -6192,9 +6076,6 @@ Rwanda,RWA,"Jun 21, 2020",111257
 Rwanda,RWA,"Jun 22, 2020",113544
 Rwanda,RWA,"Jun 23, 2020",118112
 Rwanda,RWA,"Jun 24, 2020",121527
-Rwanda,RWA,"Jun 25, 2020",126284
-Rwanda,RWA,"Jun 26, 2020",130047
-Rwanda,RWA,"Jun 27, 2020",134749
 Saudi Arabia,SAU,"May 6, 2020",389659
 Saudi Arabia,SAU,"May 7, 2020",405685
 Saudi Arabia,SAU,"May 8, 2020",418722
@@ -6244,8 +6125,6 @@ Saudi Arabia,SAU,"Jun 22, 2020",1318267
 Saudi Arabia,SAU,"Jun 23, 2020",1345520
 Saudi Arabia,SAU,"Jun 24, 2020",1380031
 Saudi Arabia,SAU,"Jun 25, 2020",1417771
-Saudi Arabia,SAU,"Jun 26, 2020",1456241
-Saudi Arabia,SAU,"Jun 27, 2020",1500516
 Senegal,SEN,"Mar 2, 2020",1
 Senegal,SEN,"Mar 3, 2020",3
 Senegal,SEN,"Mar 4, 2020",14
@@ -6361,8 +6240,6 @@ Senegal,SEN,"Jun 22, 2020",71020
 Senegal,SEN,"Jun 23, 2020",72065
 Senegal,SEN,"Jun 24, 2020",73052
 Senegal,SEN,"Jun 25, 2020",74037
-Senegal,SEN,"Jun 26, 2020",75094
-Senegal,SEN,"Jun 27, 2020",76103
 Serbia,SRB,"Feb 26, 2020",16
 Serbia,SRB,"Feb 27, 2020",25
 Serbia,SRB,"Feb 28, 2020",30
@@ -6482,9 +6359,6 @@ Serbia,SRB,"Jun 21, 2020",339822
 Serbia,SRB,"Jun 22, 2020",345260
 Serbia,SRB,"Jun 23, 2020",351285
 Serbia,SRB,"Jun 24, 2020",359069
-Serbia,SRB,"Jun 25, 2020",366380
-Serbia,SRB,"Jun 26, 2020",374875
-Serbia,SRB,"Jun 27, 2020",380808
 Singapore,SGP,"Apr 7, 2020",47486
 Singapore,SGP,"Apr 14, 2020",59737
 Singapore,SGP,"Apr 20, 2020",82644
@@ -6599,9 +6473,6 @@ Slovakia,SVK,"Jun 22, 2020",201993
 Slovakia,SVK,"Jun 23, 2020",202654
 Slovakia,SVK,"Jun 24, 2020",203911
 Slovakia,SVK,"Jun 25, 2020",204847
-Slovakia,SVK,"Jun 26, 2020",206362
-Slovakia,SVK,"Jun 27, 2020",207973
-Slovakia,SVK,"Jun 28, 2020",208904
 Slovenia,SVN,"Mar 12, 2020",3863
 Slovenia,SVN,"Mar 13, 2020",5060
 Slovenia,SVN,"Mar 14, 2020",5976
@@ -6707,9 +6578,6 @@ Slovenia,SVN,"Jun 21, 2020",93181
 Slovenia,SVN,"Jun 22, 2020",94165
 Slovenia,SVN,"Jun 23, 2020",95387
 Slovenia,SVN,"Jun 24, 2020",96599
-Slovenia,SVN,"Jun 25, 2020",97442
-Slovenia,SVN,"Jun 26, 2020",98320
-Slovenia,SVN,"Jun 27, 2020",98945
 South Africa,ZAF,"Feb 7, 2020",42
 South Africa,ZAF,"Feb 11, 2020",61
 South Africa,ZAF,"Feb 13, 2020",67
@@ -6827,8 +6695,6 @@ South Africa,ZAF,"Jun 22, 2020",1353176
 South Africa,ZAF,"Jun 23, 2020",1382772
 South Africa,ZAF,"Jun 24, 2020",1416894
 South Africa,ZAF,"Jun 25, 2020",1460012
-South Africa,ZAF,"Jun 26, 2020",1493104
-South Africa,ZAF,"Jun 27, 2020",1529009
 South Korea,KOR,"Jan 21, 2020",11
 South Korea,KOR,"Jan 22, 2020",16
 South Korea,KOR,"Jan 24, 2020",25
@@ -6967,9 +6833,6 @@ South Korea,KOR,"Jun 22, 2020",1161995
 South Korea,KOR,"Jun 23, 2020",1173734
 South Korea,KOR,"Jun 24, 2020",1186319
 South Korea,KOR,"Jun 25, 2020",1200233
-South Korea,KOR,"Jun 26, 2020",1213415
-South Korea,KOR,"Jun 27, 2020",1223914
-South Korea,KOR,"Jun 28, 2020",1231829
 Spain,ESP,"Apr 13, 2020",930230
 Spain,ESP,"Apr 23, 2020",1035522
 Spain,ESP,"Apr 30, 2020",1351130
@@ -6995,9 +6858,9 @@ Sweden,SWE,"May 10, 2020",177364
 Sweden,SWE,"May 17, 2020",210367
 Sweden,SWE,"May 24, 2020",239353
 Sweden,SWE,"May 31, 2020",275819
-Sweden,SWE,"Jun 7, 2020",322943
-Sweden,SWE,"Jun 14, 2020",382804
-Sweden,SWE,"Jun 21, 2020",444607
+Sweden,SWE,"Jun 7, 2020",324981
+Sweden,SWE,"Jun 14, 2020",385659
+Sweden,SWE,"Jun 21, 2020",447462
 Switzerland,CHE,"Jan 24, 2020",3
 Switzerland,CHE,"Jan 25, 2020",7
 Switzerland,CHE,"Jan 27, 2020",20
@@ -7103,55 +6966,52 @@ Switzerland,CHE,"May 6, 2020",301450
 Switzerland,CHE,"May 7, 2020",306114
 Switzerland,CHE,"May 8, 2020",310470
 Switzerland,CHE,"May 9, 2020",313605
-Switzerland,CHE,"May 10, 2020",315036
-Switzerland,CHE,"May 11, 2020",320111
-Switzerland,CHE,"May 12, 2020",325678
-Switzerland,CHE,"May 13, 2020",331909
-Switzerland,CHE,"May 14, 2020",337613
-Switzerland,CHE,"May 15, 2020",343211
-Switzerland,CHE,"May 16, 2020",346480
-Switzerland,CHE,"May 17, 2020",348223
-Switzerland,CHE,"May 18, 2020",352638
-Switzerland,CHE,"May 19, 2020",358639
-Switzerland,CHE,"May 20, 2020",363499
-Switzerland,CHE,"May 21, 2020",365615
-Switzerland,CHE,"May 22, 2020",369180
-Switzerland,CHE,"May 23, 2020",371708
-Switzerland,CHE,"May 24, 2020",373366
-Switzerland,CHE,"May 25, 2020",377370
-Switzerland,CHE,"May 26, 2020",383064
-Switzerland,CHE,"May 27, 2020",388065
-Switzerland,CHE,"May 28, 2020",392258
-Switzerland,CHE,"May 29, 2020",395969
-Switzerland,CHE,"May 30, 2020",398556
-Switzerland,CHE,"May 31, 2020",400129
-Switzerland,CHE,"Jun 1, 2020",401912
-Switzerland,CHE,"Jun 2, 2020",406196
-Switzerland,CHE,"Jun 3, 2020",411461
-Switzerland,CHE,"Jun 4, 2020",416681
-Switzerland,CHE,"Jun 5, 2020",421500
-Switzerland,CHE,"Jun 6, 2020",424621
-Switzerland,CHE,"Jun 7, 2020",426163
-Switzerland,CHE,"Jun 8, 2020",430875
-Switzerland,CHE,"Jun 9, 2020",437368
-Switzerland,CHE,"Jun 10, 2020",443967
-Switzerland,CHE,"Jun 11, 2020",449575
-Switzerland,CHE,"Jun 12, 2020",456033
-Switzerland,CHE,"Jun 13, 2020",460392
-Switzerland,CHE,"Jun 14, 2020",462184
-Switzerland,CHE,"Jun 15, 2020",468682
-Switzerland,CHE,"Jun 16, 2020",478727
-Switzerland,CHE,"Jun 17, 2020",488343
-Switzerland,CHE,"Jun 18, 2020",496778
-Switzerland,CHE,"Jun 19, 2020",504363
-Switzerland,CHE,"Jun 20, 2020",509055
-Switzerland,CHE,"Jun 21, 2020",510835
-Switzerland,CHE,"Jun 22, 2020",519025
-Switzerland,CHE,"Jun 23, 2020",530661
-Switzerland,CHE,"Jun 24, 2020",539771
-Switzerland,CHE,"Jun 25, 2020",548971
-Switzerland,CHE,"Jun 26, 2020",557916
-Switzerland,CHE,"Jun 27, 2020",562909
+Switzerland,CHE,"May 10, 2020",315035
+Switzerland,CHE,"May 11, 2020",320110
+Switzerland,CHE,"May 12, 2020",325677
+Switzerland,CHE,"May 13, 2020",331908
+Switzerland,CHE,"May 14, 2020",337612
+Switzerland,CHE,"May 15, 2020",343210
+Switzerland,CHE,"May 16, 2020",346479
+Switzerland,CHE,"May 17, 2020",348222
+Switzerland,CHE,"May 18, 2020",352637
+Switzerland,CHE,"May 19, 2020",358638
+Switzerland,CHE,"May 20, 2020",363498
+Switzerland,CHE,"May 21, 2020",365614
+Switzerland,CHE,"May 22, 2020",369179
+Switzerland,CHE,"May 23, 2020",371707
+Switzerland,CHE,"May 24, 2020",373364
+Switzerland,CHE,"May 25, 2020",377368
+Switzerland,CHE,"May 26, 2020",383062
+Switzerland,CHE,"May 27, 2020",388063
+Switzerland,CHE,"May 28, 2020",392256
+Switzerland,CHE,"May 29, 2020",395967
+Switzerland,CHE,"May 30, 2020",398554
+Switzerland,CHE,"May 31, 2020",400127
+Switzerland,CHE,"Jun 1, 2020",401910
+Switzerland,CHE,"Jun 2, 2020",406194
+Switzerland,CHE,"Jun 3, 2020",411459
+Switzerland,CHE,"Jun 4, 2020",416679
+Switzerland,CHE,"Jun 5, 2020",421499
+Switzerland,CHE,"Jun 6, 2020",424620
+Switzerland,CHE,"Jun 7, 2020",426162
+Switzerland,CHE,"Jun 8, 2020",430874
+Switzerland,CHE,"Jun 9, 2020",437367
+Switzerland,CHE,"Jun 10, 2020",443966
+Switzerland,CHE,"Jun 11, 2020",449574
+Switzerland,CHE,"Jun 12, 2020",456032
+Switzerland,CHE,"Jun 13, 2020",460391
+Switzerland,CHE,"Jun 14, 2020",462183
+Switzerland,CHE,"Jun 15, 2020",468681
+Switzerland,CHE,"Jun 16, 2020",478726
+Switzerland,CHE,"Jun 17, 2020",488342
+Switzerland,CHE,"Jun 18, 2020",496777
+Switzerland,CHE,"Jun 19, 2020",504346
+Switzerland,CHE,"Jun 20, 2020",508983
+Switzerland,CHE,"Jun 21, 2020",510759
+Switzerland,CHE,"Jun 22, 2020",518867
+Switzerland,CHE,"Jun 23, 2020",528674
+Switzerland,CHE,"Jun 24, 2020",534490
 Taiwan,TWN,"Mar 6, 2020",13555
 Taiwan,TWN,"Mar 7, 2020",13855
 Taiwan,TWN,"Mar 8, 2020",14154
@@ -7362,8 +7222,6 @@ Thailand,THA,"Jun 5, 2020",468000
 "Thailand, people tested",,"Jun 23, 2020",297820
 "Thailand, people tested",,"Jun 24, 2020",300149
 "Thailand, people tested",,"Jun 25, 2020",302670
-"Thailand, people tested",,"Jun 26, 2020",302822
-"Thailand, people tested",,"Jun 27, 2020",305324
 Tunisia,TUN,"Mar 2, 2020",1
 Tunisia,TUN,"Mar 7, 2020",136
 Tunisia,TUN,"Mar 8, 2020",137
@@ -7537,8 +7395,6 @@ Turkey,TUR,"Jun 22, 2020",2986653
 Turkey,TUR,"Jun 23, 2020",3029635
 Turkey,TUR,"Jun 24, 2020",3083121
 Turkey,TUR,"Jun 25, 2020",3135424
-Turkey,TUR,"Jun 27, 2020",3186622
-Turkey,TUR,"Jun 28, 2020",3231835
 Uganda,UGA,"Apr 6, 2020",3160
 Uganda,UGA,"Apr 7, 2020",3310
 Uganda,UGA,"Apr 8, 2020",3524
@@ -7616,8 +7472,6 @@ Uganda,UGA,"Jun 21, 2020",145658
 Uganda,UGA,"Jun 22, 2020",147877
 Uganda,UGA,"Jun 23, 2020",150073
 Uganda,UGA,"Jun 24, 2020",153528
-Uganda,UGA,"Jun 25, 2020",155641
-Uganda,UGA,"Jun 26, 2020",158509
 Ukraine,UKR,"Apr 9, 2020",20608
 Ukraine,UKR,"Apr 10, 2020",23522
 Ukraine,UKR,"Apr 13, 2020",35153
@@ -7683,8 +7537,6 @@ Ukraine,UKR,"Jun 22, 2020",569589
 Ukraine,UKR,"Jun 23, 2020",580814
 Ukraine,UKR,"Jun 24, 2020",594002
 Ukraine,UKR,"Jun 25, 2020",606766
-Ukraine,UKR,"Jun 27, 2020",631966
-Ukraine,UKR,"Jun 28, 2020",641911
 United Kingdom,GBR,"Apr 26, 2020",693486
 United Kingdom,GBR,"Apr 27, 2020",720480
 United Kingdom,GBR,"Apr 28, 2020",764192
@@ -7745,9 +7597,6 @@ United Kingdom,GBR,"Jun 21, 2020",4350405
 United Kingdom,GBR,"Jun 22, 2020",4403405
 United Kingdom,GBR,"Jun 23, 2020",4461361
 United Kingdom,GBR,"Jun 24, 2020",4537055
-United Kingdom,GBR,"Jun 25, 2020",4648432
-United Kingdom,GBR,"Jun 26, 2020",4722422
-United Kingdom,GBR,"Jun 27, 2020",4797763
 "United Kingdom, people tested",,"Jan 25, 2020",31
 "United Kingdom, people tested",,"Jan 26, 2020",52
 "United Kingdom, people tested",,"Jan 27, 2020",73
@@ -7976,8 +7825,6 @@ United States,USA,"Jun 22, 2020",27556391
 United States,USA,"Jun 23, 2020",28057805
 United States,USA,"Jun 24, 2020",28570233
 United States,USA,"Jun 25, 2020",29207820
-United States,USA,"Jun 26, 2020",29810767
-United States,USA,"Jun 27, 2020",30401644
 "United States, tests performed (CDC)",,"May 12, 2020",9724879
 "United States, tests performed (CDC)",,"May 13, 2020",10217573
 "United States, tests performed (CDC)",,"May 17, 2020",10847778
@@ -8008,7 +7855,6 @@ United States,USA,"Jun 27, 2020",30401644
 "United States, tests performed (CDC)",,"Jun 23, 2020",29339757
 "United States, tests performed (CDC)",,"Jun 24, 2020",30110061
 "United States, tests performed (CDC)",,"Jun 25, 2020",31281178
-"United States, tests performed (CDC)",,"Jun 26, 2020",32297688
 Uruguay,URY,"Mar 28, 2020",2926
 Uruguay,URY,"Mar 29, 2020",3126
 Uruguay,URY,"Mar 30, 2020",3425
@@ -8093,9 +7939,6 @@ Uruguay,URY,"Jun 21, 2020",57289
 Uruguay,URY,"Jun 22, 2020",57687
 Uruguay,URY,"Jun 23, 2020",58845
 Uruguay,URY,"Jun 24, 2020",60318
-Uruguay,URY,"Jun 25, 2020",61608
-Uruguay,URY,"Jun 26, 2020",62765
-Uruguay,URY,"Jun 27, 2020",64183
 Vietnam,VNM,"Mar 2, 2020",1753
 Vietnam,VNM,"Mar 3, 2020",1785
 Vietnam,VNM,"Mar 5, 2020",1924
@@ -8181,6 +8024,3 @@ Zimbabwe,ZWE,"Jun 21, 2020",26857
 Zimbabwe,ZWE,"Jun 22, 2020",27221
 Zimbabwe,ZWE,"Jun 23, 2020",27599
 Zimbabwe,ZWE,"Jun 24, 2020",28253
-Zimbabwe,ZWE,"Jun 25, 2020",28688
-Zimbabwe,ZWE,"Jun 26, 2020",29177
-Zimbabwe,ZWE,"Jun 27, 2020",29641
